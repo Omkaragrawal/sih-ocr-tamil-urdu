@@ -1,0 +1,19 @@
+{
+  "name": "sih-ocr",
+  "version": "0.0.0",
+  "description": "for ocr of telugu and urdu problem by govt of andhra pradesh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omkaragrawal/sih-ocr-tamil-urdu.git"
+  },
+  "author": "OMKAR AGRAWAL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omkaragrawal/sih-ocr-tamil-urdu/issues"
+  },
+  "homepage": "https://github.com/Omkaragrawal/sih-ocr-tamil-urdu#readme"
+}
