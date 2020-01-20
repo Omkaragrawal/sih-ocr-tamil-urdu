@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Omkaragrawal/sih-ocr-tamil-urdu/issues"
   },
-  "homepage": "https://github.com/Omkaragrawal/sih-ocr-tamil-urdu#readme"
+  "homepage": "https://github.com/Omkaragrawal/sih-ocr-tamil-urdu#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^3.21.2",
+    "morgan": "^1.9.1",
+    "tesseract.js": "^2.0.2"
+  }
 }
