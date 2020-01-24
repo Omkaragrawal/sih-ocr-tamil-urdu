@@ -9,15 +9,27 @@ const helmet = require('helmet');
 const compression = require('compression');
 const session = require("express-session");
 const bodyParser = require('body-parser');
+const redis = require('redis');
+
+
 
 const logDirectory = path.join(__dirname, 'logs')
-const redis_Client = redis.createClient({host: "redis-15359.c228.us-central1-1.gce.cloud.redislabs.com", port: "15359", password: "vpz6O15TOOUwofDpCWaFELjnP1X1msil", db: "trialdb-iconnect", socket_keepalive: true});
+const indexRouter = require('./routes/index');
+
+
+// const redis_Client = redis.createClient({host: "redis-15359.c228.us-central1-1.gce.cloud.redislabs.com", port: "15359", password: "vpz6O15TOOUwofDpCWaFELjnP1X1msil", db: "trialdb-iconnect", socket_keepalive: true});
 
 const app = express();
-
-app.use(logger('[:response-time] :remote-addr - :remote-user [:date[clf]] ":method :url HTTP/:http-version" :status :res[content-length] ":referrer" ":user-agent"', {
+fs.existsSync(logDirectory) || fs.mkdirSync(logDirectory)
+const accessLogStream = rfs.createStream('access.log', {
+    interval: '1d',
+    path: logDirectory,
+    compress: true
+});
+const fileLogger = logger('[:response-time] :remote-addr - :remote-user [:date[clf]] ":method :url HTTP/:http-version" :status :res[content-length] ":referrer" ":user-agent"', {
     stream: accessLogStream,
-}));
+})
+app.use(fileLogger);
 app.use(logger('dev'));
 app.use(helmet());
 app.use(compression());
@@ -41,4 +53,5 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', indexRouter);
 // app.use('/users', usersRouter);
 
-module.exports = app;
+
+module.exports = {app: app, logger: fileLogger};

@@ -1,13 +1,19 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
-  <title>Express</title>
-  <link rel="stylesheet" href="/stylesheets/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self';">
+    <title>Data Upload</title>
 </head>
 
 <body>
-  <h1>Express</h1>
-  <p>Welcome to Express</p>
+    <form enctype="multipart/form-data" method="POST" action="/fileUpload">
+        <input type="file" id="fileUpload" name="fileUpload" multiple accept="application/pdf, image/png, image/jpeg, image/pjpeg, image/bmp, image/x-windows-bmp" value="Select the file/s"></input>
+        <input type="submit" value="Upload file/s" />
+    </form>
 </body>
 
 </html>

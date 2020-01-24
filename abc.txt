@@ -71,3 +71,5 @@ Send feedback
 History
 Saved
 Community
+
+npm start > app.log 2>&1
