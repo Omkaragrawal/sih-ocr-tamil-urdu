@@ -1,0 +1,5115 @@
+{
+  text: 'ఏ రాష్ట్రమైనా అప్పులు చేయవచ్చు కానీ గత ప్రభుత్వం ఆ అప్పులు విలువైన ' +
+    'అవసరాలకు చేసి\nఉంటే బాగుండేదని మంత్రి  అభిప్రాయపడ్డారు. గత ప్రభుత్వం  ' +
+    'ఎఫ్‌ఆర్‌ బీఎంను దాటి అప్పులు\nచేసిందన్నారు. అప్పులు చేసినప్పటికీ దానిని ' +
+    'తీర్చగలిగే, వనరులు సృష్టించే వాటిపై అప్పు చేసి ఉంటే ఈ\nపరిస్థితి వచ్చేది ' +
+    'కాదని తెలిపారు. విద్య, ఉద్యోగ అవకాశాల పెంపుదలతో పాటు ఆరోగ్యం, సంక్షేమంపై\n' +
+    'దృష్టిసారిస్తూ రాష్ట్ర ఆర్థిక పరిస్థితిని మెరుగుదలకై కృషి చేస్తామని ఈ ' +
+    'సందర్భంగా మంత్రి పేర్కొన్నారు.\nవిద్యారంగంపై పెట్టిన అప్పును పెట్టుబడిగా ' +
+    'భావించాలన్నారు.  అదే విధంగా తలసరి ఆదాయం\nవిషయంలో తెలంగాణ రాష్ట్రం కంటే ' +
+    'వెనుకబడి ఉండటం బాధపడాల్సిన విషయం అన్నారు. తెలంగాణ\nకు వచ్చినట్లు ఏపీకి ' +
+    'పన్ను ఆదాయం రాకపోవడం కూడా ఒక రకంగా ఇన్ని సమస్యలకు కారణమని మంత్రి\n' +
+    'అన్నారు.\n\nరైతు విత్తనం వేయకముందే సాయం అందించే విధంగా ముఖ్యమంత్రి వైఎస్‌ ' +
+    'జగన్మోహన్‌ రెడ్డి\nకృషి చేశారని మంత్రి బుగ్గన అన్నారు. అదే విధంగా అన్ని ' +
+    'ప్రాంతాల్లో ఈ తరహా విధానం రావాలని\nసూచించారు. రైతులకు ఇన్సూరెన్స్‌ ' +
+    'కల్పించే గొప్ప కార్యక్రమానికి ముఖ్యమంత్రి వైఎస్‌ జగన్మోహన్‌ రెడ్డి\n' +
+    'శ్రీకారం చుట్టడం అభినందనీయమన్నారు. త్వరలోనే రైతులు కూడా ఈ తరహా ' +
+    'విధానానికి అలవాటు\nపడతారన్నా . అదే విధంగా దేశంలోనే మొట్టమొదటిసారిగా ' +
+    'అమ్మఒడి పథకానికి శ్రీకారం చుట్టిన ఘనత\nవైఎస్‌ జగన్మోహన్‌ రెడ్డిదే అని ' +
+    'కొనియాడారు. ప్రాధాన్యతా క్రమంలో మేనిఫెస్టోలో ఇచ్చిన హామీలన్నింటినీ\n' +
+    'నెరవేరుస్తామని ఈ సందర్భంగా మంత్రి బుగ్గన రాజేంద్రనాథ్‌ రెడ్డి తెలిపారు.\n\n' +
+    'రాష్ర్టానికి ప్రత్యేక హోదా ఇవ్వడంలేదని 14వ ఆర్థిక సంఘం ఎక్కడా ' +
+    'చెప్పలేదని, వాళ్లు\nచెప్పిందల్లా, తాము ప్రత్యేక హోదా రాష్తాలు, ప్రత్యేక ' +
+    'హోదా రహిత రాష్త్రాలు అని చూడడంలేదని, తమ\nపరిధిలో కేటాయింపులు చేస్తూ ' +
+    'నిర్ణయం తీసుకున్నట్టు మాత్రమే వెల్లడించారని బుగ్గన వివరించారు.\nఒకవేళ ' +
+    'ఏదైనా రాష్త్రానికి రెవెన్యూ లోటు ఉంటే ,ఆ రాష్ట్రం ప్రత్యేక హోదా రాష్ట్రం ' +
+    'కాకపోయినా సరే\nతాము నిధులు ఇస్తామని ఆర్థిక సంఘం చెప్పిందని తెలిపారు. ఈ ' +
+    'కారణంగానే ఏపీ, కేరళ, పశ్చిమ\nబెంగాల్‌ రాష్త్రాలకు ప్యాకేజి వచ్చిందని ' +
+    'మంత్రి బుగ్గన వెల్లడించారు.\nజారీచేసిన వారు: ప్రచార విభాగం, సమాచార పౌర ' +
+    'సంబంధాల శాఖ- వెలగపూడి సచివాలయం\nగమనిక : ఈ వార్తకు సంబంధించిన ఫోటోలతో పాటు ' +
+    'శ్వేతపత్రాన్ని జతచేస్తున్నాం.\n\nPUBLICITY CELL, | & PR          Page 2 of ' +
+    '2\n',
+  hocr: `<div class='ocr_page' id='page_1' title='image ""; bbox 0 0 1700 2200; ` +
+    `ppageno 0'>\n <div class='ocr_carea' id='block_1_1' title="bbox 260 224 ` +
+    `1461 2050">\n  <p class='ocr_par' id='par_1_1' lang='tel' title="bbox 261 ` +
+    `224 1460 761">\n   <span class='ocr_line' id='line_1_1' title="bbox 355 224 ` +
+    '1459 267; baseline 0 -15; x_size 37; x_descenders 9; x_ascenders 6">\n    ' +
+    "<span class='ocrx_word' id='word_1_1' title='bbox 355 230 375 252; x_wconf " +
+    "96'>ఏ</span>\n    <span class='ocrx_word' id='word_1_2' title='bbox 390 229 " +
+    "505 267; x_wconf 96'>రాష్ట్రమైనా</span>\n    <span class='ocrx_word' " +
+    "id='word_1_3' title='bbox 521 229 612 261; x_wconf 96'>అప్పులు</span>\n    " +
+    "<span class='ocrx_word' id='word_1_4' title='bbox 627 224 750 265; x_wconf " +
+    "94'>చేయవచ్చు</span>\n    <span class='ocrx_word' id='word_1_5' title='bbox " +
+    "765 226 815 252; x_wconf 96'>కానీ</span>\n    <span class='ocrx_word' " +
+    "id='word_1_6' title='bbox 830 230 870 252; x_wconf 96'>గత</span>\n    <span " +
+    "class='ocrx_word' id='word_1_7' title='bbox 885 229 991 262; x_wconf " +
+    "96'>ప్రభుత్వం</span>\n    <span class='ocrx_word' id='word_1_8' title='bbox " +
+    "1007 234 1026 252; x_wconf 96'>ఆ</span>\n    <span class='ocrx_word' " +
+    "id='word_1_9' title='bbox 1042 229 1132 261; x_wconf 96'>అప్పులు</span>\n   " +
+    " <span class='ocrx_word' id='word_1_10' title='bbox 1147 230 1239 261; " +
+    "x_wconf 96'>విలువైన</span>\n    <span class='ocrx_word' id='word_1_11' " +
+    "title='bbox 1255 229 1396 252; x_wconf 96'>అవసరాలకు</span>\n    <span " +
+    "class='ocrx_word' id='word_1_12' title='bbox 1412 224 1459 252; x_wconf " +
+    "96'>చేసి</span>\n   </span>\n   <span class='ocr_line' id='line_1_2' " +
+    'title="bbox 261 287 1459 328; baseline 0 -14; x_size 31; x_descenders 4; ' +
+    `x_ascenders 10">\n    <span class='ocrx_word' id='word_1_13' title='bbox ` +
+    "261 287 328 314; x_wconf 96'>ఉంటే</span>\n    <span class='ocrx_word' " +
+    "id='word_1_14' title='bbox 355 287 497 314; x_wconf 96'>బాగుండేదని</span>\n " +
+    "   <span class='ocrx_word' id='word_1_15' title='bbox 525 292 594 322; " +
+    "x_wconf 96'>మంత్రి</span>\n    <span class='ocrx_word' id='word_1_16' " +
+    "title='bbox 622 291 827 328; x_wconf 95'>అభిప్రాయపడ్డారు.</span>\n    <span " +
+    "class='ocrx_word' id='word_1_17' title='bbox 856 292 896 314; x_wconf " +
+    "95'>గత</span>\n    <span class='ocrx_word' id='word_1_18' title='bbox 923 " +
+    "292 1029 324; x_wconf 95'>ప్రభుత్వం</span>\n    <span class='ocrx_word' " +
+    "id='word_1_19' title='bbox 1057 288 1138 318; x_wconf 88'>ఎఫ్‌ఆర్‌</span>\n " +
+    "   <span class='ocrx_word' id='word_1_20' title='bbox 1166 290 1259 314; " +
+    "x_wconf 88'>బీఎంను</span>\n    <span class='ocrx_word' id='word_1_21' " +
+    "title='bbox 1287 289 1340 314; x_wconf 95'>దాటి</span>\n    <span " +
+    "class='ocrx_word' id='word_1_22' title='bbox 1369 292 1459 323; x_wconf " +
+    "95'>అప్పులు</span>\n   </span>\n   <span class='ocr_line' id='line_1_3' " +
+    'title="bbox 261 346 1459 390; baseline 0 -13; x_size 37; x_descenders 9; ' +
+    `x_ascenders 11">\n    <span class='ocrx_word' id='word_1_23' title='bbox ` +
+    "261 349 425 386; x_wconf 96'>చేసిందన్నారు.</span>\n    <span " +
+    "class='ocrx_word' id='word_1_24' title='bbox 439 354 529 386; x_wconf " +
+    "95'>అప్పులు</span>\n    <span class='ocrx_word' id='word_1_25' title='bbox " +
+    "542 346 684 386; x_wconf 96'>చేసినప్పటికీ</span>\n    <span " +
+    "class='ocrx_word' id='word_1_26' title='bbox 697 357 771 377; x_wconf " +
+    "96'>దానిని</span>\n    <span class='ocrx_word' id='word_1_27' title='bbox " +
+    "784 349 887 390; x_wconf 96'>తీర్చగలిగే,</span>\n    <span " +
+    "class='ocrx_word' id='word_1_28' title='bbox 901 355 999 377; x_wconf " +
+    "96'>వనరులు</span>\n    <span class='ocrx_word' id='word_1_29' title='bbox " +
+    "1012 349 1114 390; x_wconf 96'>సృష్టించే</span>\n    <span " +
+    "class='ocrx_word' id='word_1_30' title='bbox 1126 352 1203 386; x_wconf " +
+    "96'>వాటిపై</span>\n    <span class='ocrx_word' id='word_1_31' title='bbox " +
+    "1215 354 1276 386; x_wconf 96'>అప్పు</span>\n    <span class='ocrx_word' " +
+    "id='word_1_32' title='bbox 1288 349 1336 377; x_wconf 96'>చేసి</span>\n    " +
+    "<span class='ocrx_word' id='word_1_33' title='bbox 1349 349 1416 377; " +
+    "x_wconf 96'>ఉంటే</span>\n    <span class='ocrx_word' id='word_1_34' " +
+    "title='bbox 1428 355 1459 377; x_wconf 96'>ఈ</span>\n   </span>\n   <span " +
+    `class='ocr_line' id='line_1_4' title="bbox 261 411 1459 456; baseline 0 ` +
+    '-17; x_size 38; x_descenders 10; x_ascenders 6">\n    <span ' +
+    "class='ocrx_word' id='word_1_35' title='bbox 261 417 344 456; x_wconf " +
+    "96'>పరిస్థితి</span>\n    <span class='ocrx_word' id='word_1_36' " +
+    "title='bbox 360 412 428 452; x_wconf 96'>వచ్చేది</span>\n    <span " +
+    "class='ocrx_word' id='word_1_37' title='bbox 444 419 514 439; x_wconf " +
+    "96'>కాదని</span>\n    <span class='ocrx_word' id='word_1_38' title='bbox " +
+    "530 416 638 439; x_wconf 96'>తెలిపారు.</span>\n    <span class='ocrx_word' " +
+    "id='word_1_39' title='bbox 655 419 712 449; x_wconf 96'>విద్య,</span>\n    " +
+    "<span class='ocrx_word' id='word_1_40' title='bbox 729 412 813 449; " +
+    "x_wconf 96'>ఉద్యోగ</span>\n    <span class='ocrx_word' id='word_1_41' " +
+    "title='bbox 830 417 952 439; x_wconf 93'>అవకాశాల</span>\n    <span " +
+    "class='ocrx_word' id='word_1_42' title='bbox 968 412 1111 445; x_wconf " +
+    "91'>పెంపుదలతో</span>\n    <span class='ocrx_word' id='word_1_43' " +
+    "title='bbox 1127 416 1192 439; x_wconf 96'>పాటు</span>\n    <span " +
+    "class='ocrx_word' id='word_1_44' title='bbox 1208 412 1312 449; x_wconf " +
+    "96'>ఆరోగ్యం,</span>\n    <span class='ocrx_word' id='word_1_45' title='bbox " +
+    "1329 411 1459 449; x_wconf 96'>సంక్షేమంపై</span>\n   </span>\n   <span " +
+    `class='ocr_line' id='line_1_5' title="bbox 261 474 1458 518; baseline 0 ` +
+    '-16; x_size 38; x_descenders 10; x_ascenders 6">\n    <span ' +
+    "class='ocrx_word' id='word_1_46' title='bbox 261 479 410 515; x_wconf " +
+    "92'>దృష్టిసారిస్తూ</span>\n    <span class='ocrx_word' id='word_1_47' " +
+    "title='bbox 425 479 479 517; x_wconf 95'>రాష్ట్ర</span>\n    <span " +
+    "class='ocrx_word' id='word_1_48' title='bbox 493 480 550 518; x_wconf " +
+    "85'>ఆర్థిక</span>\n    <span class='ocrx_word' id='word_1_49' title='bbox " +
+    "566 479 670 518; x_wconf 93'>పరిస్థితిని</span>\n    <span " +
+    "class='ocrx_word' id='word_1_50' title='bbox 686 479 833 511; x_wconf " +
+    "91'>మెరుగుదలకై</span>\n    <span class='ocrx_word' id='word_1_51' " +
+    "title='bbox 848 479 898 512; x_wconf 95'>కృషి</span>\n    <span " +
+    "class='ocrx_word' id='word_1_52' title='bbox 915 474 1025 512; x_wconf " +
+    "95'>చేస్తామని</span>\n    <span class='ocrx_word' id='word_1_53' " +
+    "title='bbox 1040 480 1072 502; x_wconf 96'>ఈ</span>\n    <span " +
+    "class='ocrx_word' id='word_1_54' title='bbox 1088 479 1215 518; x_wconf " +
+    "96'>సందర్భంగా</span>\n    <span class='ocrx_word' id='word_1_55' " +
+    "title='bbox 1231 480 1302 510; x_wconf 96'>మంత్రి</span>\n    <span " +
+    "class='ocrx_word' id='word_1_56' title='bbox 1317 476 1458 511; x_wconf " +
+    "96'>పేర్కొన్నారు.</span>\n   </span>\n   <span class='ocr_line' " +
+    `id='line_1_6' title="bbox 261 537 1459 578; baseline 0 -13; x_size 32; ` +
+    `x_descenders 9; x_ascenders 6">\n    <span class='ocrx_word' id='word_1_57' ` +
+    "title='bbox 261 543 421 575; x_wconf 91'>విద్యారంగంపై</span>\n    <span " +
+    "class='ocrx_word' id='word_1_58' title='bbox 446 540 511 578; x_wconf " +
+    "95'>పెట్టిన</span>\n    <span class='ocrx_word' id='word_1_59' title='bbox " +
+    "536 542 626 574; x_wconf 96'>అప్పును</span>\n    <span class='ocrx_word' " +
+    "id='word_1_60' title='bbox 652 539 776 578; x_wconf 93'>పెట్టుబడిగా</span>\n" +
+    "    <span class='ocrx_word' id='word_1_61' title='bbox 802 544 1008 574; " +
+    "x_wconf 91'>భావించాలన్నారు.</span>\n    <span class='ocrx_word' " +
+    "id='word_1_62' title='bbox 1034 537 1078 565; x_wconf 96'>అదే</span>\n    " +
+    "<span class='ocrx_word' id='word_1_63' title='bbox 1102 544 1190 569; " +
+    "x_wconf 95'>విధంగా</span>\n    <span class='ocrx_word' id='word_1_64' " +
+    "title='bbox 1240 542 1323 565; x_wconf 95'>తలసరి</span>\n    <span " +
+    "class='ocrx_word' id='word_1_65' title='bbox 1349 543 1459 565; x_wconf " +
+    "95'>ఆదాయం</span>\n   </span>\n   <span class='ocr_line' id='line_1_7' " +
+    'title="bbox 261 595 1459 646; baseline 0 -19; x_size 32; x_descenders 4; ' +
+    `x_ascenders 11">\n    <span class='ocrx_word' id='word_1_66' title='bbox ` +
+    "261 599 395 631; x_wconf 96'>విషయంలో</span>\n    <span class='ocrx_word' " +
+    "id='word_1_67' title='bbox 409 605 521 627; x_wconf 95'>తెలంగాణ</span>\n    " +
+    "<span class='ocrx_word' id='word_1_68' title='bbox 524 595 604 646; " +
+    "x_wconf 95'>రాష్ట్రం</span>\n    <span class='ocrx_word' id='word_1_69' " +
+    "title='bbox 619 599 680 627; x_wconf 96'>కంటే</span>\n    <span " +
+    "class='ocrx_word' id='word_1_70' title='bbox 706 601 815 627; x_wconf " +
+    "95'>వెనుకబడి</span>\n    <span class='ocrx_word' id='word_1_71' title='bbox " +
+    "830 605 932 627; x_wconf 94'>ఉండటం</span>\n    <span class='ocrx_word' " +
+    "id='word_1_72' title='bbox 946 604 1105 637; x_wconf " +
+    "96'>బాధపడాల్సిన</span>\n    <span class='ocrx_word' id='word_1_73' " +
+    "title='bbox 1119 604 1221 632; x_wconf 95'>విషయం</span>\n    <span " +
+    "class='ocrx_word' id='word_1_74' title='bbox 1235 606 1333 636; x_wconf " +
+    "96'>అన్నారు.</span>\n    <span class='ocrx_word' id='word_1_75' title='bbox " +
+    "1347 605 1459 627; x_wconf 96'>తెలంగాణ</span>\n   </span>\n   <span " +
+    `class='ocr_line' id='line_1_8' title="bbox 261 661 1460 703; baseline 0 ` +
+    '-13; x_size 33; x_descenders 10; x_ascenders 6">\n    <span ' +
+    "class='ocrx_word' id='word_1_76' title='bbox 261 668 287 690; x_wconf " +
+    "96'>కు</span>\n    <span class='ocrx_word' id='word_1_77' title='bbox 298 " +
+    "668 395 703; x_wconf 95'>వచ్చినట్లు</span>\n    <span class='ocrx_word' " +
+    "id='word_1_78' title='bbox 406 661 465 690; x_wconf 95'>ఏపీకి</span>\n    " +
+    "<span class='ocrx_word' id='word_1_79' title='bbox 477 667 539 699; " +
+    "x_wconf 95'>పన్ను</span>\n    <span class='ocrx_word' id='word_1_80' " +
+    "title='bbox 549 668 661 690; x_wconf 95'>ఆదాయం</span>\n    <span " +
+    "class='ocrx_word' id='word_1_81' title='bbox 672 666 817 690; x_wconf " +
+    "96'>రాకపోవడం</span>\n    <span class='ocrx_word' id='word_1_82' title='bbox " +
+    "828 668 898 690; x_wconf 96'>కూడా</span>\n    <span class='ocrx_word' " +
+    "id='word_1_83' title='bbox 909 668 946 690; x_wconf 96'>ఒక</span>\n    " +
+    "<span class='ocrx_word' id='word_1_84' title='bbox 957 668 1041 690; " +
+    "x_wconf 95'>రకంగా</span>\n    <span class='ocrx_word' id='word_1_85' " +
+    "title='bbox 1052 670 1106 699; x_wconf 96'>ఇన్ని</span>\n    <span " +
+    "class='ocrx_word' id='word_1_86' title='bbox 1116 667 1247 700; x_wconf " +
+    "96'>సమస్యలకు</span>\n    <span class='ocrx_word' id='word_1_87' title='bbox " +
+    "1258 668 1378 690; x_wconf 96'>కారణమని</span>\n    <span class='ocrx_word' " +
+    "id='word_1_88' title='bbox 1389 668 1460 698; x_wconf 95'>మంత్రి</span>\n   " +
+    `</span>\n   <span class='ocr_line' id='line_1_9' title="bbox 261 731 358 ` +
+    '761; baseline 0 -9; x_size 43.068123; x_descenders 9; x_ascenders ' +
+    `13.068124">\n    <span class='ocrx_word' id='word_1_89' title='bbox 261 731 ` +
+    "358 761; x_wconf 96'>అన్నారు.</span>\n   </span>\n  </p>\n\n  <p " +
+    `class='ocr_par' id='par_1_2' lang='tel' title="bbox 261 787 1460 1206">\n   ` +
+    `<span class='ocr_line' id='line_1_10' title="bbox 355 787 1459 829; ` +
+    'baseline 0 -14; x_size 38; x_descenders 10; x_ascenders 11">\n    <span ' +
+    "class='ocrx_word' id='word_1_90' title='bbox 355 792 405 824; x_wconf " +
+    "96'>రైతు</span>\n    <span class='ocrx_word' id='word_1_91' title='bbox 421 " +
+    "793 503 825; x_wconf 93'>విత్తనం</span>\n    <span class='ocrx_word' " +
+    "id='word_1_92' title='bbox 520 787 681 815; x_wconf 90'>వేయకముందే</span>\n  " +
+    "  <span class='ocrx_word' id='word_1_93' title='bbox 696 792 786 815; " +
+    "x_wconf 96'>సాయం</span>\n    <span class='ocrx_word' id='word_1_94' " +
+    "title='bbox 803 787 910 815; x_wconf 96'>అందించే</span>\n    <span " +
+    "class='ocrx_word' id='word_1_95' title='bbox 925 794 1014 819; x_wconf " +
+    "96'>విధంగా</span>\n    <span class='ocrx_word' id='word_1_96' title='bbox " +
+    "1030 793 1177 825; x_wconf 96'>ముఖ్యమంత్రి</span>\n    <span " +
+    "class='ocrx_word' id='word_1_97' title='bbox 1193 790 1255 824; x_wconf " +
+    "96'>వైఎస్‌</span>\n    <span class='ocrx_word' id='word_1_98' title='bbox " +
+    "1272 788 1404 825; x_wconf 94'>జగన్మోహన్‌</span>\n    <span " +
+    "class='ocrx_word' id='word_1_99' title='bbox 1421 789 1459 829; x_wconf " +
+    "96'>రెడ్డి</span>\n   </span>\n   <span class='ocr_line' id='line_1_11' " +
+    'title="bbox 261 850 1459 891; baseline 0 -14; x_size 37; x_descenders 10; ' +
+    `x_ascenders 10">\n    <span class='ocrx_word' id='word_1_100' title='bbox ` +
+    "261 855 311 888; x_wconf 96'>కృషి</span>\n    <span class='ocrx_word' " +
+    "id='word_1_101' title='bbox 329 850 427 877; x_wconf 96'>చేశారని</span>\n   " +
+    " <span class='ocrx_word' id='word_1_102' title='bbox 444 855 514 885; " +
+    "x_wconf 96'>మంత్రి</span>\n    <span class='ocrx_word' id='word_1_103' " +
+    "title='bbox 532 856 601 891; x_wconf 96'>బుగ్గన</span>\n    <span " +
+    "class='ocrx_word' id='word_1_104' title='bbox 618 856 716 887; x_wconf " +
+    "95'>అన్నారు.</span>\n    <span class='ocrx_word' id='word_1_105' " +
+    "title='bbox 734 850 777 877; x_wconf 95'>అదే</span>\n    <span " +
+    "class='ocrx_word' id='word_1_106' title='bbox 794 857 882 881; x_wconf " +
+    "95'>విధంగా</span>\n    <span class='ocrx_word' id='word_1_107' title='bbox " +
+    "901 857 953 887; x_wconf 96'>అన్ని</span>\n    <span class='ocrx_word' " +
+    "id='word_1_108' title='bbox 970 850 1089 887; x_wconf " +
+    "93'>ప్రాంతాల్లో</span>\n    <span class='ocrx_word' id='word_1_109' " +
+    "title='bbox 1105 855 1137 877; x_wconf 96'>ఈ</span>\n    <span " +
+    "class='ocrx_word' id='word_1_110' title='bbox 1155 855 1228 877; x_wconf " +
+    "96'>తరహా</span>\n    <span class='ocrx_word' id='word_1_111' title='bbox " +
+    "1246 856 1337 881; x_wconf 96'>విధానం</span>\n    <span class='ocrx_word' " +
+    "id='word_1_112' title='bbox 1355 857 1459 877; x_wconf 96'>రావాలని</span>\n " +
+    `  </span>\n   <span class='ocr_line' id='line_1_12' title="bbox 261 912 ` +
+    '1459 954; baseline 0 -14; x_size 38; x_descenders 10; x_ascenders 11">\n    ' +
+    "<span class='ocrx_word' id='word_1_113' title='bbox 261 917 417 940; " +
+    "x_wconf 94'>సూచించారు.</span>\n    <span class='ocrx_word' id='word_1_114' " +
+    "title='bbox 431 917 529 949; x_wconf 94'>రైతులకు</span>\n    <span " +
+    "class='ocrx_word' id='word_1_115' title='bbox 543 914 671 950; x_wconf " +
+    "20'>ఇన్సూరెన్స్‌</span>\n    <span class='ocrx_word' id='word_1_116' " +
+    "title='bbox 684 912 779 949; x_wconf 95'>కల్పించే</span>\n    <span " +
+    "class='ocrx_word' id='word_1_117' title='bbox 791 917 853 949; x_wconf " +
+    "96'>గొప్ప</span>\n    <span class='ocrx_word' id='word_1_118' title='bbox " +
+    "866 914 1025 950; x_wconf 95'>కార్యక్రమానికి</span>\n    <span " +
+    "class='ocrx_word' id='word_1_119' title='bbox 1039 918 1185 950; x_wconf " +
+    "95'>ముఖ్యమంత్రి</span>\n    <span class='ocrx_word' id='word_1_120' " +
+    "title='bbox 1198 915 1261 949; x_wconf 96'>వైఎస్‌</span>\n    <span " +
+    "class='ocrx_word' id='word_1_121' title='bbox 1275 913 1407 951; x_wconf " +
+    "93'>జగన్మోహన్‌</span>\n    <span class='ocrx_word' id='word_1_122' " +
+    "title='bbox 1421 914 1459 954; x_wconf 96'>రెడ్డి</span>\n   </span>\n   " +
+    `<span class='ocr_line' id='line_1_13' title="bbox 261 974 1460 1015; ` +
+    'baseline 0 -13; x_size 38; x_descenders 10; x_ascenders 6">\n    <span ' +
+    "class='ocrx_word' id='word_1_123' title='bbox 261 974 349 1010; x_wconf " +
+    "94'>శ్రీకారం</span>\n    <span class='ocrx_word' id='word_1_124' " +
+    "title='bbox 366 980 462 1015; x_wconf 96'>చుట్టడం</span>\n    <span " +
+    "class='ocrx_word' id='word_1_125' title='bbox 478 977 752 1012; x_wconf " +
+    "95'>అభినందనీయమన్నారు.</span>\n    <span class='ocrx_word' id='word_1_126' " +
+    "title='bbox 769 975 877 1012; x_wconf 96'>త్వరలోనే</span>\n    <span " +
+    "class='ocrx_word' id='word_1_127' title='bbox 892 980 973 1011; x_wconf " +
+    "96'>రైతులు</span>\n    <span class='ocrx_word' id='word_1_128' title='bbox " +
+    "989 981 1059 1002; x_wconf 96'>కూడా</span>\n    <span class='ocrx_word' " +
+    "id='word_1_129' title='bbox 1075 980 1107 1002; x_wconf 96'>ఈ</span>\n    " +
+    "<span class='ocrx_word' id='word_1_130' title='bbox 1124 980 1197 1002; " +
+    "x_wconf 96'>తరహా</span>\n    <span class='ocrx_word' id='word_1_131' " +
+    "title='bbox 1213 977 1337 1006; x_wconf 96'>విధానానికి</span>\n    <span " +
+    "class='ocrx_word' id='word_1_132' title='bbox 1354 980 1460 1002; x_wconf " +
+    "96'>అలవాటు</span>\n   </span>\n   <span class='ocr_line' id='line_1_14' " +
+    'title="bbox 261 1037 1459 1078; baseline 0 -13; x_size 37; x_descenders 9; ' +
+    `x_ascenders 10">\n    <span class='ocrx_word' id='word_1_133' title='bbox ` +
+    "261 1042 399 1074; x_wconf 87'>పడతారన్నా</span>\n    <span " +
+    "class='ocrx_word' id='word_1_134' title='bbox 428 1061 431 1065; x_wconf " +
+    "90'>.</span>\n    <span class='ocrx_word' id='word_1_135' title='bbox 443 " +
+    "1037 487 1065; x_wconf 96'>అదే</span>\n    <span class='ocrx_word' " +
+    "id='word_1_136' title='bbox 497 1044 586 1069; x_wconf 96'>విధంగా</span>\n  " +
+    "  <span class='ocrx_word' id='word_1_137' title='bbox 598 1037 713 1065; " +
+    "x_wconf 96'>దేశంలోనే</span>\n    <span class='ocrx_word' id='word_1_138' " +
+    "title='bbox 723 1040 953 1078; x_wconf 96'>మొట్టమొదటిసారిగా</span>\n    " +
+    "<span class='ocrx_word' id='word_1_139' title='bbox 965 1039 1063 1076; " +
+    "x_wconf 10'>అమ్మఒడి</span>\n    <span class='ocrx_word' id='word_1_140' " +
+    "title='bbox 1075 1039 1184 1069; x_wconf 95'>పథకానికి</span>\n    <span " +
+    "class='ocrx_word' id='word_1_141' title='bbox 1195 1037 1284 1073; x_wconf " +
+    "95'>శ్రీకారం</span>\n    <span class='ocrx_word' id='word_1_142' " +
+    "title='bbox 1296 1040 1374 1078; x_wconf 94'>చుట్టిన</span>\n    <span " +
+    "class='ocrx_word' id='word_1_143' title='bbox 1386 1042 1459 1069; x_wconf " +
+    "94'>ఘనత</span>\n   </span>\n   <span class='ocr_line' id='line_1_15' " +
+    'title="bbox 261 1100 1459 1141; baseline 0 -14; x_size 41; x_descenders ' +
+    `13; x_ascenders 6">\n    <span class='ocrx_word' id='word_1_144' ` +
+    "title='bbox 261 1102 323 1136; x_wconf 96'>వైఎస్‌</span>\n    <span " +
+    "class='ocrx_word' id='word_1_145' title='bbox 336 1100 468 1138; x_wconf " +
+    "92'>జగన్మోహన్‌</span>\n    <span class='ocrx_word' id='word_1_146' " +
+    "title='bbox 481 1100 543 1141; x_wconf 90'>రెడ్డిదే</span>\n    <span " +
+    "class='ocrx_word' id='word_1_147' title='bbox 554 1107 595 1127; x_wconf " +
+    "96'>అని</span>\n    <span class='ocrx_word' id='word_1_148' title='bbox 608 " +
+    "1104 775 1127; x_wconf 96'>కొనియాడారు.</span>\n    <span class='ocrx_word' " +
+    "id='word_1_149' title='bbox 788 1104 919 1137; x_wconf " +
+    "95'>ప్రాధాన్యతా</span>\n    <span class='ocrx_word' id='word_1_150' " +
+    "title='bbox 931 1100 1033 1135; x_wconf 95'>క్రమంలో</span>\n    <span " +
+    "class='ocrx_word' id='word_1_151' title='bbox 1045 1100 1188 1140; x_wconf " +
+    "0'>మేనిఫెస్టోలో</span>\n    <span class='ocrx_word' id='word_1_152' " +
+    "title='bbox 1200 1106 1267 1140; x_wconf 93'>ఇచ్చిన</span>\n    <span " +
+    "class='ocrx_word' id='word_1_153' title='bbox 1280 1101 1459 1137; x_wconf " +
+    "91'>హామీలన్నింటినీ</span>\n   </span>\n   <span class='ocr_line' " +
+    `id='line_1_16' title="bbox 261 1162 1106 1206; baseline 0 -16; x_size 36; ` +
+    `x_descenders 8; x_ascenders 11">\n    <span class='ocrx_word' ` +
+    "id='word_1_154' title='bbox 261 1162 434 1200; x_wconf " +
+    "91'>నెరవేరుస్తామని</span>\n    <span class='ocrx_word' id='word_1_155' " +
+    "title='bbox 445 1168 477 1190; x_wconf 95'>ఈ</span>\n    <span " +
+    "class='ocrx_word' id='word_1_156' title='bbox 488 1167 616 1206; x_wconf " +
+    "96'>సందర్భంగా</span>\n    <span class='ocrx_word' id='word_1_157' " +
+    "title='bbox 628 1168 698 1198; x_wconf 96'>మంత్రి</span>\n    <span " +
+    "class='ocrx_word' id='word_1_158' title='bbox 708 1169 778 1204; x_wconf " +
+    "96'>బుగ్గన</span>\n    <span class='ocrx_word' id='word_1_159' title='bbox " +
+    "789 1162 936 1198; x_wconf 96'>రాజేంద్రనాథ్‌</span>\n    <span " +
+    "class='ocrx_word' id='word_1_160' title='bbox 948 1164 987 1204; x_wconf " +
+    "96'>రెడ్డి</span>\n    <span class='ocrx_word' id='word_1_161' title='bbox " +
+    "998 1166 1106 1190; x_wconf 96'>తెలిపారు.</span>\n   </span>\n  </p>\n\n  <p " +
+    `class='ocr_par' id='par_1_3' lang='tel' title="bbox 260 1225 1461 1701">\n  ` +
+    ` <span class='ocr_line' id='line_1_17' title="bbox 355 1225 1460 1269; ` +
+    'baseline 0 -17; x_size 37; x_descenders 10; x_ascenders 6">\n    <span ' +
+    "class='ocrx_word' id='word_1_162' title='bbox 355 1227 457 1268; x_wconf " +
+    "39'>రాష్ర్టానికి</span>\n    <span class='ocrx_word' id='word_1_163' " +
+    "title='bbox 481 1225 555 1262; x_wconf 95'>ప్రత్యేక</span>\n    <span " +
+    "class='ocrx_word' id='word_1_164' title='bbox 579 1225 655 1252; x_wconf " +
+    "92'>హోదా</span>\n    <span class='ocrx_word' id='word_1_165' title='bbox " +
+    "679 1225 837 1262; x_wconf 91'>ఇవ్వడంలేదని</span>\n    <span " +
+    "class='ocrx_word' id='word_1_166' title='bbox 862 1230 920 1253; x_wconf " +
+    "96'>14వ</span>\n    <span class='ocrx_word' id='word_1_167' title='bbox 944 " +
+    "1231 1001 1269; x_wconf 90'>ఆర్థిక</span>\n    <span class='ocrx_word' " +
+    "id='word_1_168' title='bbox 1025 1230 1114 1256; x_wconf 95'>సంఘం</span>\n  " +
+    "  <span class='ocrx_word' id='word_1_169' title='bbox 1139 1231 1222 1258; " +
+    "x_wconf 95'>ఎక్కడా</span>\n    <span class='ocrx_word' id='word_1_170' " +
+    "title='bbox 1245 1225 1375 1261; x_wconf 95'>చెప్పలేదని,</span>\n    <span " +
+    "class='ocrx_word' id='word_1_171' title='bbox 1400 1231 1460 1262; x_wconf " +
+    "96'>వాళ్లు</span>\n   </span>\n   <span class='ocr_line' id='line_1_18' " +
+    'title="bbox 261 1287 1459 1330; baseline 0 -15; x_size 38; x_descenders ' +
+    `10; x_ascenders 11">\n    <span class='ocrx_word' id='word_1_172' ` +
+    "title='bbox 261 1292 396 1325; x_wconf 96'>చెప్పిందల్లా,</span>\n    <span " +
+    "class='ocrx_word' id='word_1_173' title='bbox 411 1293 485 1315; x_wconf " +
+    "96'>తాము</span>\n    <span class='ocrx_word' id='word_1_174' title='bbox " +
+    "497 1287 572 1325; x_wconf 96'>ప్రత్యేక</span>\n    <span class='ocrx_word' " +
+    "id='word_1_175' title='bbox 585 1287 661 1315; x_wconf 93'>హోదా</span>\n    " +
+    "<span class='ocrx_word' id='word_1_176' title='bbox 675 1291 774 1330; " +
+    "x_wconf 64'>రాష్తాలు,</span>\n    <span class='ocrx_word' id='word_1_177' " +
+    "title='bbox 788 1287 862 1325; x_wconf 95'>ప్రత్యేక</span>\n    <span " +
+    "class='ocrx_word' id='word_1_178' title='bbox 876 1287 952 1315; x_wconf " +
+    "95'>హోదా</span>\n    <span class='ocrx_word' id='word_1_179' title='bbox " +
+    "966 1292 1039 1315; x_wconf 93'>రహిత</span>\n    <span class='ocrx_word' " +
+    "id='word_1_180' title='bbox 1053 1291 1147 1330; x_wconf " +
+    "45'>రాష్త్రాలు</span>\n    <span class='ocrx_word' id='word_1_181' " +
+    "title='bbox 1161 1295 1202 1315; x_wconf 93'>అని</span>\n    <span " +
+    "class='ocrx_word' id='word_1_182' title='bbox 1216 1287 1393 1318; x_wconf " +
+    "91'>చూడడంలేదని,</span>\n    <span class='ocrx_word' id='word_1_183' " +
+    "title='bbox 1408 1293 1459 1315; x_wconf 96'>తమ</span>\n   </span>\n   <span " +
+    `class='ocr_line' id='line_1_19' title="bbox 261 1345 1458 1396; baseline 0 ` +
+    '-19; x_size 32; x_descenders 4; x_ascenders 12">\n    <span ' +
+    "class='ocrx_word' id='word_1_184' title='bbox 261 1350 355 1381; x_wconf " +
+    "96'>పరిధిలో</span>\n    <span class='ocrx_word' id='word_1_185' title='bbox " +
+    "374 1349 544 1383; x_wconf 95'>కేటాయింపులు</span>\n    <span " +
+    "class='ocrx_word' id='word_1_186' title='bbox 562 1350 631 1388; x_wconf " +
+    "96'>చేస్తూ</span>\n    <span class='ocrx_word' id='word_1_187' title='bbox " +
+    "639 1345 745 1396; x_wconf 95'>నిర్ణయం</span>\n    <span class='ocrx_word' " +
+    "id='word_1_188' title='bbox 768 1350 911 1390; x_wconf " +
+    "96'>తీసుకున్నట్టు</span>\n    <span class='ocrx_word' id='word_1_189' " +
+    "title='bbox 930 1350 1024 1385; x_wconf 95'>మాత్రమే</span>\n    <span " +
+    "class='ocrx_word' id='word_1_190' title='bbox 1043 1352 1201 1387; x_wconf " +
+    "95'>వెల్లడించారని</span>\n    <span class='ocrx_word' id='word_1_191' " +
+    "title='bbox 1220 1356 1290 1392; x_wconf 96'>బుగ్గన</span>\n    <span " +
+    "class='ocrx_word' id='word_1_192' title='bbox 1309 1355 1458 1377; x_wconf " +
+    "95'>వివరించారు.</span>\n   </span>\n   <span class='ocr_line' id='line_1_20' " +
+    'title="bbox 261 1412 1461 1455; baseline 0 -15; x_size 38; x_descenders ' +
+    `10; x_ascenders 11">\n    <span class='ocrx_word' id='word_1_193' ` +
+    "title='bbox 261 1412 340 1440; x_wconf 96'>ఒకవేళ</span>\n    <span " +
+    "class='ocrx_word' id='word_1_194' title='bbox 358 1418 432 1449; x_wconf " +
+    "93'>ఏదైనా</span>\n    <span class='ocrx_word' id='word_1_195' title='bbox " +
+    "450 1414 552 1455; x_wconf 10'>రాష్త్రానికి</span>\n    <span " +
+    "class='ocrx_word' id='word_1_196' title='bbox 569 1417 662 1450; x_wconf " +
+    "96'>రెవెన్యూ</span>\n    <span class='ocrx_word' id='word_1_197' " +
+    "title='bbox 679 1412 743 1440; x_wconf 96'>లోటు</span>\n    <span " +
+    "class='ocrx_word' id='word_1_198' title='bbox 760 1412 827 1440; x_wconf " +
+    "92'>ఉంటే</span>\n    <span class='ocrx_word' id='word_1_199' title='bbox " +
+    "844 1422 869 1443; x_wconf 92'>,ఆ</span>\n    <span class='ocrx_word' " +
+    "id='word_1_200' title='bbox 886 1417 957 1455; x_wconf 95'>రాష్ట్రం</span>\n" +
+    "    <span class='ocrx_word' id='word_1_201' title='bbox 974 1412 1047 " +
+    "1450; x_wconf 96'>ప్రత్యేక</span>\n    <span class='ocrx_word' " +
+    "id='word_1_202' title='bbox 1065 1412 1141 1440; x_wconf 96'>హోదా</span>\n  " +
+    "  <span class='ocrx_word' id='word_1_203' title='bbox 1158 1417 1229 1455; " +
+    "x_wconf 95'>రాష్ట్రం</span>\n    <span class='ocrx_word' id='word_1_204' " +
+    "title='bbox 1246 1416 1402 1440; x_wconf 96'>కాకపోయినా</span>\n    <span " +
+    "class='ocrx_word' id='word_1_205' title='bbox 1419 1412 1461 1440; x_wconf " +
+    "95'>సరే</span>\n   </span>\n   <span class='ocr_line' id='line_1_21' " +
+    'title="bbox 261 1474 1459 1519; baseline 0 -16; x_size 33; x_descenders 4; ' +
+    `x_ascenders 12">\n    <span class='ocrx_word' id='word_1_206' title='bbox ` +
+    "261 1481 334 1503; x_wconf 96'>తాము</span>\n    <span class='ocrx_word' " +
+    "id='word_1_207' title='bbox 353 1482 434 1507; x_wconf 95'>నిధులు</span>\n  " +
+    "  <span class='ocrx_word' id='word_1_208' title='bbox 453 1480 558 1513; " +
+    "x_wconf 95'>ఇస్తామని</span>\n    <span class='ocrx_word' id='word_1_209' " +
+    "title='bbox 577 1481 633 1519; x_wconf 91'>ఆర్థిక</span>\n    <span " +
+    "class='ocrx_word' id='word_1_210' title='bbox 653 1480 741 1507; x_wconf " +
+    "95'>సంఘం</span>\n    <span class='ocrx_word' id='word_1_211' title='bbox " +
+    "760 1480 879 1512; x_wconf 95'>చెప్పిందని</span>\n    <span " +
+    "class='ocrx_word' id='word_1_212' title='bbox 898 1479 1007 1503; x_wconf " +
+    "96'>తెలిపారు.</span>\n    <span class='ocrx_word' id='word_1_213' " +
+    "title='bbox 1027 1481 1059 1503; x_wconf 96'>ఈ</span>\n    <span " +
+    "class='ocrx_word' id='word_1_214' title='bbox 1078 1475 1218 1503; x_wconf " +
+    "95'>కారణంగానే</span>\n    <span class='ocrx_word' id='word_1_215' " +
+    "title='bbox 1236 1474 1282 1506; x_wconf 96'>ఏపీ,</span>\n    <span " +
+    "class='ocrx_word' id='word_1_216' title='bbox 1303 1475 1366 1506; x_wconf " +
+    "96'>కేరళ,</span>\n    <span class='ocrx_word' id='word_1_217' title='bbox " +
+    "1386 1480 1459 1516; x_wconf 95'>పశ్చిమ</span>\n   </span>\n   <span " +
+    `class='ocr_line' id='line_1_22' title="bbox 261 1537 1010 1580; baseline 0 ` +
+    '-15; x_size 38; x_descenders 10; x_ascenders 11">\n    <span ' +
+    "class='ocrx_word' id='word_1_218' title='bbox 261 1540 352 1565; x_wconf " +
+    "93'>బెంగాల్‌</span>\n    <span class='ocrx_word' id='word_1_219' " +
+    "title='bbox 363 1541 474 1580; x_wconf 43'>రాష్త్రాలకు</span>\n    <span " +
+    "class='ocrx_word' id='word_1_220' title='bbox 485 1537 570 1575; x_wconf " +
+    "95'>ప్యాకేజి</span>\n    <span class='ocrx_word' id='word_1_221' " +
+    "title='bbox 581 1543 686 1578; x_wconf 96'>వచ్చిందని</span>\n    <span " +
+    "class='ocrx_word' id='word_1_222' title='bbox 697 1543 768 1573; x_wconf " +
+    "96'>మంత్రి</span>\n    <span class='ocrx_word' id='word_1_223' title='bbox " +
+    "779 1544 848 1579; x_wconf 95'>బుగ్గన</span>\n    <span class='ocrx_word' " +
+    "id='word_1_224' title='bbox 859 1539 1010 1575; x_wconf " +
+    "96'>వెల్లడించారు.</span>\n   </span>\n   <span class='ocr_line' " +
+    `id='line_1_23' title="bbox 260 1600 1368 1636; baseline 0 -8; x_size 33; ` +
+    `x_descenders 5; x_ascenders 10">\n    <span class='ocrx_word' ` +
+    "id='word_1_225' title='bbox 260 1600 383 1628; x_wconf " +
+    "96'>జారీచేసిన</span>\n    <span class='ocrx_word' id='word_1_226' " +
+    "title='bbox 394 1607 461 1628; x_wconf 95'>వారు:</span>\n    <span " +
+    "class='ocrx_word' id='word_1_227' title='bbox 471 1605 550 1636; x_wconf " +
+    "94'>ప్రచార</span>\n    <span class='ocrx_word' id='word_1_228' title='bbox " +
+    "561 1607 657 1632; x_wconf 95'>విభాగం,</span>\n    <span class='ocrx_word' " +
+    "id='word_1_229' title='bbox 668 1605 788 1628; x_wconf 95'>సమాచార</span>\n  " +
+    "  <span class='ocrx_word' id='word_1_230' title='bbox 798 1604 850 1628; " +
+    "x_wconf 93'>పౌర</span>\n    <span class='ocrx_word' id='word_1_231' " +
+    "title='bbox 861 1605 994 1632; x_wconf 93'>సంబంధాల</span>\n    <span " +
+    "class='ocrx_word' id='word_1_232' title='bbox 1005 1610 1068 1632; x_wconf " +
+    "90'>శాఖ-</span>\n    <span class='ocrx_word' id='word_1_233' title='bbox " +
+    "1078 1602 1198 1633; x_wconf 96'>వెలగపూడి</span>\n    <span " +
+    "class='ocrx_word' id='word_1_234' title='bbox 1209 1605 1368 1628; x_wconf " +
+    "96'>సచివాలయం</span>\n   </span>\n   <span class='ocr_line' id='line_1_24' " +
+    'title="bbox 260 1662 1221 1701; baseline 0 -11; x_size 32; x_descenders 4; ' +
+    `x_ascenders 11">\n    <span class='ocrx_word' id='word_1_235' title='bbox ` +
+    "260 1668 348 1690; x_wconf 93'>గమనిక</span>\n    <span class='ocrx_word' " +
+    "id='word_1_236' title='bbox 359 1674 365 1690; x_wconf 90'>:</span>\n    " +
+    "<span class='ocrx_word' id='word_1_237' title='bbox 376 1668 408 1690; " +
+    "x_wconf 96'>ఈ</span>\n    <span class='ocrx_word' id='word_1_238' " +
+    "title='bbox 419 1668 498 1701; x_wconf 95'>వార్తకు</span>\n    <span " +
+    "class='ocrx_word' id='word_1_239' title='bbox 507 1667 673 1694; x_wconf " +
+    "96'>సంబంధించిన</span>\n    <span class='ocrx_word' id='word_1_240' " +
+    "title='bbox 684 1662 811 1694; x_wconf 95'>ఫోటోలతో</span>\n    <span " +
+    "class='ocrx_word' id='word_1_241' title='bbox 822 1666 887 1690; x_wconf " +
+    "93'>పాటు</span>\n    <span class='ocrx_word' id='word_1_242' title='bbox " +
+    "897 1662 1041 1700; x_wconf 88'>శ్వేతపత్రాన్ని</span>\n    <span " +
+    "class='ocrx_word' id='word_1_243' title='bbox 1051 1662 1221 1701; x_wconf " +
+    "91'>జతచేస్తున్నాం.</span>\n   </span>\n  </p>\n\n  <p class='ocr_par' " +
+    `id='par_1_4' lang='eng' title="bbox 468 2014 1252 2050">\n   <span ` +
+    `class='ocr_line' id='line_1_25' title="bbox 468 2014 1252 2050; baseline 0 ` +
+    '-5; x_size 38.633202; x_descenders 9.9285717; x_ascenders 11.010753">\n    ' +
+    "<span class='ocrx_word' id='word_1_244' title='bbox 468 2014 693 2046; " +
+    "x_wconf 89'>PUBLICITY</span>\n    <span class='ocrx_word' id='word_1_245' " +
+    "title='bbox 701 2014 812 2050; x_wconf 89'>CELL,</span>\n    <span " +
+    "class='ocrx_word' id='word_1_246' title='bbox 829 2014 846 2045; x_wconf " +
+    "68'>|</span>\n    <span class='ocrx_word' id='word_1_247' title='bbox 856 " +
+    "2014 888 2046; x_wconf 96'>&amp;</span>\n    <span class='ocrx_word' " +
+    "id='word_1_248' title='bbox 907 2014 968 2045; x_wconf 96'>PR</span>\n    " +
+    "<span class='ocrx_word' id='word_1_249' title='bbox 1125 2026 1200 2050; " +
+    "x_wconf 93'>Page</span>\n    <span class='ocrx_word' id='word_1_250' " +
+    "title='bbox 1178 2013 1202 2059; x_wconf 89'>2</span>\n    <span " +
+    "class='ocrx_word' id='word_1_251' title='bbox 1209 2025 1252 2045; x_wconf " +
+    "89'>of</span>\n    <span class='ocrx_word' id='word_1_252' title='bbox 1232 " +
+    "2013 1256 2059; x_wconf 96'>2</span>\n   </span>\n  </p>\n </div>\n</div>\n",
+  tsv: '1\t1\t0\t0\t0\t0\t0\t0\t1700\t2200\t-1\t\n2\t1\t1\t0\t0\t0\t260\t224\t1201\t1826\t-1\t\n3\t1\t1\t1\t0\t' +
+    '0\t261\t224\t1199\t537\t-1\t\n4\t1\t1\t1\t1\t0\t355\t224\t1104\t43\t-1\t\n5\t1\t1\t1\t1\t1\t355\t230\t' +
+    '20\t22\t96\tఏ\n5\t1\t1\t1\t1\t2\t390\t229\t115\t38\t96\tరాష్ట్రమైనా\n5\t1\t1\t1\t1\t3\t521\t229\t' +
+    '91\t32\t96\tఅప్పులు\n5\t1\t1\t1\t1\t4\t627\t224\t123\t41\t94\tచేయవచ్చు\n5\t1\t1\t1\t1\t5\t765\t' +
+    '226\t50\t26\t96\tకానీ\n5\t1\t1\t1\t1\t6\t830\t230\t40\t22\t96\tగత\n5\t1\t1\t1\t1\t7\t885\t229\t106\t' +
+    '33\t96\tప్రభుత్వం\n5\t1\t1\t1\t1\t8\t1007\t234\t19\t18\t96\tఆ\n5\t1\t1\t1\t1\t9\t1042\t229\t90\t32\t' +
+    '96\tఅప్పులు\n5\t1\t1\t1\t1\t10\t1147\t230\t92\t31\t96\tవిలువైన\n5\t1\t1\t1\t1\t11\t1255\t229\t' +
+    '141\t23\t96\tఅవసరాలకు\n5\t1\t1\t1\t1\t12\t1412\t224\t47\t28\t96\tచేసి\n4\t1\t1\t1\t2\t0\t261\t287\t' +
+    '1198\t41\t-1\t\n5\t1\t1\t1\t2\t1\t261\t287\t67\t27\t96\tఉంటే\n5\t1\t1\t1\t2\t2\t355\t287\t142\t27\t' +
+    '96\tబాగుండేదని\n5\t1\t1\t1\t2\t3\t525\t292\t69\t30\t96\tమంత్రి\n5\t1\t1\t1\t2\t4\t622\t291\t205\t' +
+    '37\t95\tఅభిప్రాయపడ్డారు.\n5\t1\t1\t1\t2\t5\t856\t292\t40\t22\t95\tగత\n5\t1\t1\t1\t2\t6\t923\t292\t' +
+    '106\t32\t95\tప్రభుత్వం\n5\t1\t1\t1\t2\t7\t1057\t288\t81\t30\t88\tఎఫ్‌ఆర్‌\n5\t1\t1\t1\t2\t8\t' +
+    '1166\t290\t93\t24\t88\tబీఎంను\n5\t1\t1\t1\t2\t9\t1287\t289\t53\t25\t95\tదాటి\n5\t1\t1\t1\t2\t10\t' +
+    '1369\t292\t90\t31\t95\tఅప్పులు\n4\t1\t1\t1\t3\t0\t261\t346\t1198\t44\t-1\t\n5\t1\t1\t1\t3\t1\t261\t' +
+    '349\t164\t37\t96\tచేసిందన్నారు.\n5\t1\t1\t1\t3\t2\t439\t354\t90\t32\t95\tఅప్పులు\n5\t1\t1\t1\t3\t' +
+    '3\t542\t346\t142\t40\t96\tచేసినప్పటికీ\n5\t1\t1\t1\t3\t4\t697\t357\t74\t20\t96\tదానిని\n5\t1\t1\t' +
+    '1\t3\t5\t784\t349\t103\t41\t96\tతీర్చగలిగే,\n5\t1\t1\t1\t3\t6\t901\t355\t98\t22\t96\tవనరులు\n5\t' +
+    '1\t1\t1\t3\t7\t1012\t349\t102\t41\t96\tసృష్టించే\n5\t1\t1\t1\t3\t8\t1126\t352\t77\t34\t96\t' +
+    'వాటిపై\n5\t1\t1\t1\t3\t9\t1215\t354\t61\t32\t96\tఅప్పు\n5\t1\t1\t1\t3\t10\t1288\t349\t48\t28\t96\t' +
+    'చేసి\n5\t1\t1\t1\t3\t11\t1349\t349\t67\t28\t96\tఉంటే\n5\t1\t1\t1\t3\t12\t1428\t355\t31\t22\t96\tఈ\n' +
+    '4\t1\t1\t1\t4\t0\t261\t411\t1198\t45\t-1\t\n5\t1\t1\t1\t4\t1\t261\t417\t83\t39\t96\tపరిస్థితి\n5\t1\t' +
+    '1\t1\t4\t2\t360\t412\t68\t40\t96\tవచ్చేది\n5\t1\t1\t1\t4\t3\t444\t419\t70\t20\t96\tకాదని\n5\t1\t1\t' +
+    '1\t4\t4\t530\t416\t108\t23\t96\tతెలిపారు.\n5\t1\t1\t1\t4\t5\t655\t419\t57\t30\t96\tవిద్య,\n5\t1\t' +
+    '1\t1\t4\t6\t729\t412\t84\t37\t96\tఉద్యోగ\n5\t1\t1\t1\t4\t7\t830\t417\t122\t22\t93\tఅవకాశాల\n5\t1\t' +
+    '1\t1\t4\t8\t968\t412\t143\t33\t91\tపెంపుదలతో\n5\t1\t1\t1\t4\t9\t1127\t416\t65\t23\t96\tపాటు\n5\t1\t' +
+    '1\t1\t4\t10\t1208\t412\t104\t37\t96\tఆరోగ్యం,\n5\t1\t1\t1\t4\t11\t1329\t411\t130\t38\t96\t' +
+    'సంక్షేమంపై\n4\t1\t1\t1\t5\t0\t261\t474\t1197\t44\t-1\t\n5\t1\t1\t1\t5\t1\t261\t479\t149\t36\t92\t' +
+    'దృష్టిసారిస్తూ\n5\t1\t1\t1\t5\t2\t425\t479\t54\t38\t95\tరాష్ట్ర\n5\t1\t1\t1\t5\t3\t493\t480\t57\t' +
+    '38\t85\tఆర్థిక\n5\t1\t1\t1\t5\t4\t566\t479\t104\t39\t93\tపరిస్థితిని\n5\t1\t1\t1\t5\t5\t686\t479\t' +
+    '147\t32\t91\tమెరుగుదలకై\n5\t1\t1\t1\t5\t6\t848\t479\t50\t33\t95\tకృషి\n5\t1\t1\t1\t5\t7\t915\t474\t' +
+    '110\t38\t95\tచేస్తామని\n5\t1\t1\t1\t5\t8\t1040\t480\t32\t22\t96\tఈ\n5\t1\t1\t1\t5\t9\t1088\t479\t' +
+    '127\t39\t96\tసందర్భంగా\n5\t1\t1\t1\t5\t10\t1231\t480\t71\t30\t96\tమంత్రి\n5\t1\t1\t1\t5\t11\t' +
+    '1317\t476\t141\t35\t96\tపేర్కొన్నారు.\n4\t1\t1\t1\t6\t0\t261\t537\t1198\t41\t-1\t\n5\t1\t1\t1\t6\t' +
+    '1\t261\t543\t160\t32\t91\tవిద్యారంగంపై\n5\t1\t1\t1\t6\t2\t446\t540\t65\t38\t95\tపెట్టిన\n5\t1\t' +
+    '1\t1\t6\t3\t536\t542\t90\t32\t96\tఅప్పును\n5\t1\t1\t1\t6\t4\t652\t539\t124\t39\t93\tపెట్టుబడిగా\n' +
+    '5\t1\t1\t1\t6\t5\t802\t544\t206\t30\t91\tభావించాలన్నారు.\n5\t1\t1\t1\t6\t6\t1034\t537\t44\t28\t' +
+    '96\tఅదే\n5\t1\t1\t1\t6\t7\t1102\t544\t88\t25\t95\tవిధంగా\n5\t1\t1\t1\t6\t8\t1240\t542\t83\t23\t95\t' +
+    'తలసరి\n5\t1\t1\t1\t6\t9\t1349\t543\t110\t22\t95\tఆదాయం\n4\t1\t1\t1\t7\t0\t261\t595\t1198\t51\t-1\t\n' +
+    '5\t1\t1\t1\t7\t1\t261\t599\t134\t32\t96\tవిషయంలో\n5\t1\t1\t1\t7\t2\t409\t605\t112\t22\t95\t' +
+    'తెలంగాణ\n5\t1\t1\t1\t7\t3\t524\t595\t80\t51\t95\tరాష్ట్రం\n5\t1\t1\t1\t7\t4\t619\t599\t61\t28\t96\t' +
+    'కంటే\n5\t1\t1\t1\t7\t5\t706\t601\t109\t26\t95\tవెనుకబడి\n5\t1\t1\t1\t7\t6\t830\t605\t102\t22\t94\t' +
+    'ఉండటం\n5\t1\t1\t1\t7\t7\t946\t604\t159\t33\t96\tబాధపడాల్సిన\n5\t1\t1\t1\t7\t8\t1119\t604\t102\t' +
+    '28\t95\tవిషయం\n5\t1\t1\t1\t7\t9\t1235\t606\t98\t30\t96\tఅన్నారు.\n5\t1\t1\t1\t7\t10\t1347\t605\t' +
+    '112\t22\t96\tతెలంగాణ\n4\t1\t1\t1\t8\t0\t261\t661\t1199\t42\t-1\t\n5\t1\t1\t1\t8\t1\t261\t668\t26\t' +
+    '22\t96\tకు\n5\t1\t1\t1\t8\t2\t298\t668\t97\t35\t95\tవచ్చినట్లు\n5\t1\t1\t1\t8\t3\t406\t661\t59\t29\t' +
+    '95\tఏపీకి\n5\t1\t1\t1\t8\t4\t477\t667\t62\t32\t95\tపన్ను\n5\t1\t1\t1\t8\t5\t549\t668\t112\t22\t95\t' +
+    'ఆదాయం\n5\t1\t1\t1\t8\t6\t672\t666\t145\t24\t96\tరాకపోవడం\n5\t1\t1\t1\t8\t7\t828\t668\t70\t22\t96\t' +
+    'కూడా\n5\t1\t1\t1\t8\t8\t909\t668\t37\t22\t96\tఒక\n5\t1\t1\t1\t8\t9\t957\t668\t84\t22\t95\tరకంగా\n5\t' +
+    '1\t1\t1\t8\t10\t1052\t670\t54\t29\t96\tఇన్ని\n5\t1\t1\t1\t8\t11\t1116\t667\t131\t33\t96\t' +
+    'సమస్యలకు\n5\t1\t1\t1\t8\t12\t1258\t668\t120\t22\t96\tకారణమని\n5\t1\t1\t1\t8\t13\t1389\t668\t71\t' +
+    '30\t95\tమంత్రి\n4\t1\t1\t1\t9\t0\t261\t731\t97\t30\t-1\t\n5\t1\t1\t1\t9\t1\t261\t731\t97\t30\t96\t' +
+    'అన్నారు.\n3\t1\t1\t2\t0\t0\t261\t787\t1199\t419\t-1\t\n4\t1\t1\t2\t1\t0\t355\t787\t1104\t42\t-1\t\n' +
+    '5\t1\t1\t2\t1\t1\t355\t792\t50\t32\t96\tరైతు\n5\t1\t1\t2\t1\t2\t421\t793\t82\t32\t93\tవిత్తనం\n5\t1\t' +
+    '1\t2\t1\t3\t520\t787\t161\t28\t90\tవేయకముందే\n5\t1\t1\t2\t1\t4\t696\t792\t90\t23\t96\tసాయం\n5\t1\t' +
+    '1\t2\t1\t5\t803\t787\t107\t28\t96\tఅందించే\n5\t1\t1\t2\t1\t6\t925\t794\t89\t25\t96\tవిధంగా\n5\t1\t' +
+    '1\t2\t1\t7\t1030\t793\t147\t32\t96\tముఖ్యమంత్రి\n5\t1\t1\t2\t1\t8\t1193\t790\t62\t34\t96\t' +
+    'వైఎస్‌\n5\t1\t1\t2\t1\t9\t1272\t788\t132\t37\t94\tజగన్మోహన్‌\n5\t1\t1\t2\t1\t10\t1421\t789\t38\t' +
+    '40\t96\tరెడ్డి\n4\t1\t1\t2\t2\t0\t261\t850\t1198\t41\t-1\t\n5\t1\t1\t2\t2\t1\t261\t855\t50\t33\t96\t' +
+    'కృషి\n5\t1\t1\t2\t2\t2\t329\t850\t98\t27\t96\tచేశారని\n5\t1\t1\t2\t2\t3\t444\t855\t70\t30\t96\t' +
+    'మంత్రి\n5\t1\t1\t2\t2\t4\t532\t856\t69\t35\t96\tబుగ్గన\n5\t1\t1\t2\t2\t5\t618\t856\t98\t31\t95\t' +
+    'అన్నారు.\n5\t1\t1\t2\t2\t6\t734\t850\t43\t27\t95\tఅదే\n5\t1\t1\t2\t2\t7\t794\t857\t88\t24\t95\t' +
+    'విధంగా\n5\t1\t1\t2\t2\t8\t901\t857\t52\t30\t96\tఅన్ని\n5\t1\t1\t2\t2\t9\t970\t850\t119\t37\t93\t' +
+    'ప్రాంతాల్లో\n5\t1\t1\t2\t2\t10\t1105\t855\t32\t22\t96\tఈ\n5\t1\t1\t2\t2\t11\t1155\t855\t73\t22\t' +
+    '96\tతరహా\n5\t1\t1\t2\t2\t12\t1246\t856\t91\t25\t96\tవిధానం\n5\t1\t1\t2\t2\t13\t1355\t857\t104\t20\t' +
+    '96\tరావాలని\n4\t1\t1\t2\t3\t0\t261\t912\t1198\t42\t-1\t\n5\t1\t1\t2\t3\t1\t261\t917\t156\t23\t94\t' +
+    'సూచించారు.\n5\t1\t1\t2\t3\t2\t431\t917\t98\t32\t94\tరైతులకు\n5\t1\t1\t2\t3\t3\t543\t914\t128\t36\t' +
+    '20\tఇన్సూరెన్స్‌\n5\t1\t1\t2\t3\t4\t684\t912\t95\t37\t95\tకల్పించే\n5\t1\t1\t2\t3\t5\t791\t917\t' +
+    '62\t32\t96\tగొప్ప\n5\t1\t1\t2\t3\t6\t866\t914\t159\t36\t95\tకార్యక్రమానికి\n5\t1\t1\t2\t3\t7\t' +
+    '1039\t918\t146\t32\t95\tముఖ్యమంత్రి\n5\t1\t1\t2\t3\t8\t1198\t915\t63\t34\t96\tవైఎస్‌\n5\t1\t1\t' +
+    '2\t3\t9\t1275\t913\t132\t38\t93\tజగన్మోహన్‌\n5\t1\t1\t2\t3\t10\t1421\t914\t38\t40\t96\tరెడ్డి\n' +
+    '4\t1\t1\t2\t4\t0\t261\t974\t1199\t41\t-1\t\n5\t1\t1\t2\t4\t1\t261\t974\t88\t36\t94\tశ్రీకారం\n5\t1\t' +
+    '1\t2\t4\t2\t366\t980\t96\t35\t96\tచుట్టడం\n5\t1\t1\t2\t4\t3\t478\t977\t274\t35\t95\t' +
+    'అభినందనీయమన్నారు.\n5\t1\t1\t2\t4\t4\t769\t975\t108\t37\t96\tత్వరలోనే\n5\t1\t1\t2\t4\t5\t892\t' +
+    '980\t81\t31\t96\tరైతులు\n5\t1\t1\t2\t4\t6\t989\t981\t70\t21\t96\tకూడా\n5\t1\t1\t2\t4\t7\t1075\t980\t' +
+    '32\t22\t96\tఈ\n5\t1\t1\t2\t4\t8\t1124\t980\t73\t22\t96\tతరహా\n5\t1\t1\t2\t4\t9\t1213\t977\t124\t29\t' +
+    '96\tవిధానానికి\n5\t1\t1\t2\t4\t10\t1354\t980\t106\t22\t96\tఅలవాటు\n4\t1\t1\t2\t5\t0\t261\t1037\t' +
+    '1198\t41\t-1\t\n5\t1\t1\t2\t5\t1\t261\t1042\t138\t32\t87\tపడతారన్నా\n5\t1\t1\t2\t5\t2\t428\t1061\t' +
+    '3\t4\t90\t.\n5\t1\t1\t2\t5\t3\t443\t1037\t44\t28\t96\tఅదే\n5\t1\t1\t2\t5\t4\t497\t1044\t89\t25\t96\t' +
+    'విధంగా\n5\t1\t1\t2\t5\t5\t598\t1037\t115\t28\t96\tదేశంలోనే\n5\t1\t1\t2\t5\t6\t723\t1040\t230\t38\t' +
+    '96\tమొట్టమొదటిసారిగా\n5\t1\t1\t2\t5\t7\t965\t1039\t98\t37\t10\tఅమ్మఒడి\n5\t1\t1\t2\t5\t8\t1075\t' +
+    '1039\t109\t30\t95\tపథకానికి\n5\t1\t1\t2\t5\t9\t1195\t1037\t89\t36\t95\tశ్రీకారం\n5\t1\t1\t2\t5\t' +
+    '10\t1296\t1040\t78\t38\t94\tచుట్టిన\n5\t1\t1\t2\t5\t11\t1386\t1042\t73\t27\t94\tఘనత\n4\t1\t1\t2\t' +
+    '6\t0\t261\t1100\t1198\t41\t-1\t\n5\t1\t1\t2\t6\t1\t261\t1102\t62\t34\t96\tవైఎస్‌\n5\t1\t1\t2\t6\t2\t' +
+    '336\t1100\t132\t38\t92\tజగన్మోహన్‌\n5\t1\t1\t2\t6\t3\t481\t1100\t62\t41\t90\tరెడ్డిదే\n5\t1\t1\t' +
+    '2\t6\t4\t554\t1107\t41\t20\t96\tఅని\n5\t1\t1\t2\t6\t5\t608\t1104\t167\t23\t96\tకొనియాడారు.\n5\t1\t' +
+    '1\t2\t6\t6\t788\t1104\t131\t33\t95\tప్రాధాన్యతా\n5\t1\t1\t2\t6\t7\t931\t1100\t102\t35\t95\t' +
+    'క్రమంలో\n5\t1\t1\t2\t6\t8\t1045\t1100\t143\t40\t0\tమేనిఫెస్టోలో\n5\t1\t1\t2\t6\t9\t1200\t1106\t' +
+    '67\t34\t93\tఇచ్చిన\n5\t1\t1\t2\t6\t10\t1280\t1101\t179\t36\t91\tహామీలన్నింటినీ\n4\t1\t1\t2\t7\t' +
+    '0\t261\t1162\t845\t44\t-1\t\n5\t1\t1\t2\t7\t1\t261\t1162\t173\t38\t91\tనెరవేరుస్తామని\n5\t1\t1\t' +
+    '2\t7\t2\t445\t1168\t32\t22\t95\tఈ\n5\t1\t1\t2\t7\t3\t488\t1167\t128\t39\t96\tసందర్భంగా\n5\t1\t1\t2\t' +
+    '7\t4\t628\t1168\t70\t30\t96\tమంత్రి\n5\t1\t1\t2\t7\t5\t708\t1169\t70\t35\t96\tబుగ్గన\n5\t1\t1\t2\t' +
+    '7\t6\t789\t1162\t147\t36\t96\tరాజేంద్రనాథ్‌\n5\t1\t1\t2\t7\t7\t948\t1164\t39\t40\t96\tరెడ్డి\n' +
+    '5\t1\t1\t2\t7\t8\t998\t1166\t108\t24\t96\tతెలిపారు.\n3\t1\t1\t3\t0\t0\t260\t1225\t1201\t476\t-1\t\n' +
+    '4\t1\t1\t3\t1\t0\t355\t1225\t1105\t44\t-1\t\n5\t1\t1\t3\t1\t1\t355\t1227\t102\t41\t39\t' +
+    'రాష్ర్టానికి\n5\t1\t1\t3\t1\t2\t481\t1225\t74\t37\t95\tప్రత్యేక\n5\t1\t1\t3\t1\t3\t579\t1225\t' +
+    '76\t27\t92\tహోదా\n5\t1\t1\t3\t1\t4\t679\t1225\t158\t37\t91\tఇవ్వడంలేదని\n5\t1\t1\t3\t1\t5\t862\t' +
+    '1230\t58\t23\t96\t14వ\n5\t1\t1\t3\t1\t6\t944\t1231\t57\t38\t90\tఆర్థిక\n5\t1\t1\t3\t1\t7\t1025\t' +
+    '1230\t89\t26\t95\tసంఘం\n5\t1\t1\t3\t1\t8\t1139\t1231\t83\t27\t95\tఎక్కడా\n5\t1\t1\t3\t1\t9\t1245\t' +
+    '1225\t130\t36\t95\tచెప్పలేదని,\n5\t1\t1\t3\t1\t10\t1400\t1231\t60\t31\t96\tవాళ్లు\n4\t1\t1\t3\t' +
+    '2\t0\t261\t1287\t1198\t43\t-1\t\n5\t1\t1\t3\t2\t1\t261\t1292\t135\t33\t96\tచెప్పిందల్లా,\n5\t1\t' +
+    '1\t3\t2\t2\t411\t1293\t74\t22\t96\tతాము\n5\t1\t1\t3\t2\t3\t497\t1287\t75\t38\t96\tప్రత్యేక\n5\t1\t' +
+    '1\t3\t2\t4\t585\t1287\t76\t28\t93\tహోదా\n5\t1\t1\t3\t2\t5\t675\t1291\t99\t39\t64\tరాష్తాలు,\n5\t1\t' +
+    '1\t3\t2\t6\t788\t1287\t74\t38\t95\tప్రత్యేక\n5\t1\t1\t3\t2\t7\t876\t1287\t76\t28\t95\tహోదా\n5\t1\t' +
+    '1\t3\t2\t8\t966\t1292\t73\t23\t93\tరహిత\n5\t1\t1\t3\t2\t9\t1053\t1291\t94\t39\t45\tరాష్త్రాలు\n5\t' +
+    '1\t1\t3\t2\t10\t1161\t1295\t41\t20\t93\tఅని\n5\t1\t1\t3\t2\t11\t1216\t1287\t177\t31\t91\t' +
+    'చూడడంలేదని,\n5\t1\t1\t3\t2\t12\t1408\t1293\t51\t22\t96\tతమ\n4\t1\t1\t3\t3\t0\t261\t1345\t1197\t' +
+    '51\t-1\t\n5\t1\t1\t3\t3\t1\t261\t1350\t94\t31\t96\tపరిధిలో\n5\t1\t1\t3\t3\t2\t374\t1349\t170\t34\t' +
+    '95\tకేటాయింపులు\n5\t1\t1\t3\t3\t3\t562\t1350\t69\t38\t96\tచేస్తూ\n5\t1\t1\t3\t3\t4\t639\t1345\t' +
+    '106\t51\t95\tనిర్ణయం\n5\t1\t1\t3\t3\t5\t768\t1350\t143\t40\t96\tతీసుకున్నట్టు\n5\t1\t1\t3\t3\t6\t' +
+    '930\t1350\t94\t35\t95\tమాత్రమే\n5\t1\t1\t3\t3\t7\t1043\t1352\t158\t35\t95\tవెల్లడించారని\n5\t' +
+    '1\t1\t3\t3\t8\t1220\t1356\t70\t36\t96\tబుగ్గన\n5\t1\t1\t3\t3\t9\t1309\t1355\t149\t22\t95\t' +
+    'వివరించారు.\n4\t1\t1\t3\t4\t0\t261\t1412\t1200\t43\t-1\t\n5\t1\t1\t3\t4\t1\t261\t1412\t79\t28\t96\t' +
+    'ఒకవేళ\n5\t1\t1\t3\t4\t2\t358\t1418\t74\t31\t93\tఏదైనా\n5\t1\t1\t3\t4\t3\t450\t1414\t102\t41\t10\t' +
+    'రాష్త్రానికి\n5\t1\t1\t3\t4\t4\t569\t1417\t93\t33\t96\tరెవెన్యూ\n5\t1\t1\t3\t4\t5\t679\t1412\t' +
+    '64\t28\t96\tలోటు\n5\t1\t1\t3\t4\t6\t760\t1412\t67\t28\t92\tఉంటే\n5\t1\t1\t3\t4\t7\t844\t1422\t25\t' +
+    '21\t92\t,ఆ\n5\t1\t1\t3\t4\t8\t886\t1417\t71\t38\t95\tరాష్ట్రం\n5\t1\t1\t3\t4\t9\t974\t1412\t73\t38\t' +
+    '96\tప్రత్యేక\n5\t1\t1\t3\t4\t10\t1065\t1412\t76\t28\t96\tహోదా\n5\t1\t1\t3\t4\t11\t1158\t1417\t71\t' +
+    '38\t95\tరాష్ట్రం\n5\t1\t1\t3\t4\t12\t1246\t1416\t156\t24\t96\tకాకపోయినా\n5\t1\t1\t3\t4\t13\t' +
+    '1419\t1412\t42\t28\t95\tసరే\n4\t1\t1\t3\t5\t0\t261\t1474\t1198\t45\t-1\t\n5\t1\t1\t3\t5\t1\t261\t' +
+    '1481\t73\t22\t96\tతాము\n5\t1\t1\t3\t5\t2\t353\t1482\t81\t25\t95\tనిధులు\n5\t1\t1\t3\t5\t3\t453\t' +
+    '1480\t105\t33\t95\tఇస్తామని\n5\t1\t1\t3\t5\t4\t577\t1481\t56\t38\t91\tఆర్థిక\n5\t1\t1\t3\t5\t5\t' +
+    '653\t1480\t88\t27\t95\tసంఘం\n5\t1\t1\t3\t5\t6\t760\t1480\t119\t32\t95\tచెప్పిందని\n5\t1\t1\t3\t5\t' +
+    '7\t898\t1479\t109\t24\t96\tతెలిపారు.\n5\t1\t1\t3\t5\t8\t1027\t1481\t32\t22\t96\tఈ\n5\t1\t1\t3\t5\t' +
+    '9\t1078\t1475\t140\t28\t95\tకారణంగానే\n5\t1\t1\t3\t5\t10\t1236\t1474\t46\t32\t96\tఏపీ,\n5\t1\t1\t' +
+    '3\t5\t11\t1303\t1475\t63\t31\t96\tకేరళ,\n5\t1\t1\t3\t5\t12\t1386\t1480\t73\t36\t95\tపశ్చిమ\n4\t1\t' +
+    '1\t3\t6\t0\t261\t1537\t749\t43\t-1\t\n5\t1\t1\t3\t6\t1\t261\t1540\t91\t25\t93\tబెంగాల్‌\n5\t1\t1\t3\t' +
+    '6\t2\t363\t1541\t111\t39\t43\tరాష్త్రాలకు\n5\t1\t1\t3\t6\t3\t485\t1537\t85\t38\t95\tప్యాకేజి\n' +
+    '5\t1\t1\t3\t6\t4\t581\t1543\t105\t35\t96\tవచ్చిందని\n5\t1\t1\t3\t6\t5\t697\t1543\t71\t30\t96\t' +
+    'మంత్రి\n5\t1\t1\t3\t6\t6\t779\t1544\t69\t35\t95\tబుగ్గన\n5\t1\t1\t3\t6\t7\t859\t1539\t151\t36\t96\t' +
+    'వెల్లడించారు.\n4\t1\t1\t3\t7\t0\t260\t1600\t1108\t36\t-1\t\n5\t1\t1\t3\t7\t1\t260\t1600\t123\t28\t' +
+    '96\tజారీచేసిన\n5\t1\t1\t3\t7\t2\t394\t1607\t67\t21\t95\tవారు:\n5\t1\t1\t3\t7\t3\t471\t1605\t79\t' +
+    '31\t94\tప్రచార\n5\t1\t1\t3\t7\t4\t561\t1607\t96\t25\t95\tవిభాగం,\n5\t1\t1\t3\t7\t5\t668\t1605\t' +
+    '120\t23\t95\tసమాచార\n5\t1\t1\t3\t7\t6\t798\t1604\t52\t24\t93\tపౌర\n5\t1\t1\t3\t7\t7\t861\t1605\t' +
+    '133\t27\t93\tసంబంధాల\n5\t1\t1\t3\t7\t8\t1005\t1610\t63\t22\t90\tశాఖ-\n5\t1\t1\t3\t7\t9\t1078\t' +
+    '1602\t120\t31\t96\tవెలగపూడి\n5\t1\t1\t3\t7\t10\t1209\t1605\t159\t23\t96\tసచివాలయం\n4\t1\t1\t3\t' +
+    '8\t0\t260\t1662\t961\t39\t-1\t\n5\t1\t1\t3\t8\t1\t260\t1668\t88\t22\t93\tగమనిక\n5\t1\t1\t3\t8\t2\t' +
+    '359\t1674\t6\t16\t90\t:\n5\t1\t1\t3\t8\t3\t376\t1668\t32\t22\t96\tఈ\n5\t1\t1\t3\t8\t4\t419\t1668\t79\t' +
+    '33\t95\tవార్తకు\n5\t1\t1\t3\t8\t5\t507\t1667\t166\t27\t96\tసంబంధించిన\n5\t1\t1\t3\t8\t6\t684\t' +
+    '1662\t127\t32\t95\tఫోటోలతో\n5\t1\t1\t3\t8\t7\t822\t1666\t65\t24\t93\tపాటు\n5\t1\t1\t3\t8\t8\t897\t' +
+    '1662\t144\t38\t88\tశ్వేతపత్రాన్ని\n5\t1\t1\t3\t8\t9\t1051\t1662\t170\t39\t91\t' +
+    'జతచేస్తున్నాం.\n3\t1\t1\t4\t0\t0\t468\t2014\t784\t36\t-1\t\n4\t1\t1\t4\t1\t0\t468\t2014\t784\t36\t' +
+    '-1\t\n5\t1\t1\t4\t1\t1\t468\t2014\t225\t32\t89\tPUBLICITY\n5\t1\t1\t4\t1\t2\t701\t2014\t111\t36\t' +
+    '89\tCELL,\n5\t1\t1\t4\t1\t3\t829\t2014\t17\t31\t68\t|\n5\t1\t1\t4\t1\t4\t856\t2014\t32\t32\t96\t&\n5\t' +
+    '1\t1\t4\t1\t5\t907\t2014\t61\t31\t96\tPR\n5\t1\t1\t4\t1\t6\t1125\t2026\t75\t24\t93\tPage\n5\t1\t1\t4\t' +
+    '1\t7\t1178\t2013\t24\t46\t89\t2\n5\t1\t1\t4\t1\t8\t1209\t2025\t43\t20\t89\tof\n5\t1\t1\t4\t1\t9\t' +
+    '1232\t2013\t24\t46\t96\t2\n',
+  box: null,
+  unlv: null,
+  osd: null,
+  confidence: 92,
+  blocks: [
+    {
+      paragraphs: [Array],
+      text: 'ఏ రాష్ట్రమైనా అప్పులు చేయవచ్చు కానీ గత ప్రభుత్వం ఆ అప్పులు విలువైన ' +
+        'అవసరాలకు చేసి\nఉంటే బాగుండేదని మంత్రి  అభిప్రాయపడ్డారు. గత ప్రభుత్వం  ' +
+        'ఎఫ్‌ఆర్‌ బీఎంను దాటి అప్పులు\nచేసిందన్నారు. అప్పులు చేసినప్పటికీ దానిని ' +
+        'తీర్చగలిగే, వనరులు సృష్టించే వాటిపై అప్పు చేసి ఉంటే ఈ\nపరిస్థితి ' +
+        'వచ్చేది కాదని తెలిపారు. విద్య, ఉద్యోగ అవకాశాల పెంపుదలతో పాటు ఆరోగ్యం, ' +
+        'సంక్షేమంపై\nదృష్టిసారిస్తూ రాష్ట్ర ఆర్థిక పరిస్థితిని మెరుగుదలకై కృషి ' +
+        'చేస్తామని ఈ సందర్భంగా మంత్రి పేర్కొన్నారు.\nవిద్యారంగంపై పెట్టిన ' +
+        'అప్పును పెట్టుబడిగా భావించాలన్నారు.  అదే విధంగా తలసరి ఆదాయం\nవిషయంలో ' +
+        'తెలంగాణ రాష్ట్రం కంటే వెనుకబడి ఉండటం బాధపడాల్సిన విషయం అన్నారు. ' +
+        'తెలంగాణ\nకు వచ్చినట్లు ఏపీకి పన్ను ఆదాయం రాకపోవడం కూడా ఒక రకంగా ఇన్ని ' +
+        'సమస్యలకు కారణమని మంత్రి\nఅన్నారు.\n\nరైతు విత్తనం వేయకముందే సాయం అందించే ' +
+        'విధంగా ముఖ్యమంత్రి వైఎస్‌ జగన్మోహన్‌ రెడ్డి\nకృషి చేశారని మంత్రి బుగ్గన ' +
+        'అన్నారు. అదే విధంగా అన్ని ప్రాంతాల్లో ఈ తరహా విధానం రావాలని\nసూచించారు. ' +
+        'రైతులకు ఇన్సూరెన్స్‌ కల్పించే గొప్ప కార్యక్రమానికి ముఖ్యమంత్రి వైఎస్‌ ' +
+        'జగన్మోహన్‌ రెడ్డి\nశ్రీకారం చుట్టడం అభినందనీయమన్నారు. త్వరలోనే రైతులు ' +
+        'కూడా ఈ తరహా విధానానికి అలవాటు\nపడతారన్నా . అదే విధంగా దేశంలోనే ' +
+        'మొట్టమొదటిసారిగా అమ్మఒడి పథకానికి శ్రీకారం చుట్టిన ఘనత\nవైఎస్‌ ' +
+        'జగన్మోహన్‌ రెడ్డిదే అని కొనియాడారు. ప్రాధాన్యతా క్రమంలో మేనిఫెస్టోలో ' +
+        'ఇచ్చిన హామీలన్నింటినీ\nనెరవేరుస్తామని ఈ సందర్భంగా మంత్రి బుగ్గన ' +
+        'రాజేంద్రనాథ్‌ రెడ్డి తెలిపారు.\n\nరాష్ర్టానికి ప్రత్యేక హోదా ఇవ్వడంలేదని ' +
+        '14వ ఆర్థిక సంఘం ఎక్కడా చెప్పలేదని, వాళ్లు\nచెప్పిందల్లా, తాము ప్రత్యేక ' +
+        'హోదా రాష్తాలు, ప్రత్యేక హోదా రహిత రాష్త్రాలు అని చూడడంలేదని, తమ\n' +
+        'పరిధిలో కేటాయింపులు చేస్తూ నిర్ణయం తీసుకున్నట్టు మాత్రమే వెల్లడించారని ' +
+        'బుగ్గన వివరించారు.\nఒకవేళ ఏదైనా రాష్త్రానికి రెవెన్యూ లోటు ఉంటే ,ఆ ' +
+        'రాష్ట్రం ప్రత్యేక హోదా రాష్ట్రం కాకపోయినా సరే\nతాము నిధులు ఇస్తామని ' +
+        'ఆర్థిక సంఘం చెప్పిందని తెలిపారు. ఈ కారణంగానే ఏపీ, కేరళ, పశ్చిమ\n' +
+        'బెంగాల్‌ రాష్త్రాలకు ప్యాకేజి వచ్చిందని మంత్రి బుగ్గన వెల్లడించారు.\n' +
+        'జారీచేసిన వారు: ప్రచార విభాగం, సమాచార పౌర సంబంధాల శాఖ- వెలగపూడి ' +
+        'సచివాలయం\nగమనిక : ఈ వార్తకు సంబంధించిన ఫోటోలతో పాటు శ్వేతపత్రాన్ని ' +
+        'జతచేస్తున్నాం.\n\nPUBLICITY CELL, | & PR          Page 2 of 2\n',
+      confidence: 93.0107650756836,
+      baseline: [Object],
+      bbox: [Object],
+      blocktype: 'FLOWING_TEXT',
+      polygon: null,
+      page: [Object]
+    }
+  ],
+  psm: 'SINGLE_BLOCK',
+  oem: 'DEFAULT',
+  version: '4.0.0-825-g887c',
+  paragraphs: [
+    {
+      lines: [Array],
+      text: 'ఏ రాష్ట్రమైనా అప్పులు చేయవచ్చు కానీ గత ప్రభుత్వం ఆ అప్పులు ' +
+        'విలువైన అవసరాలకు చేసి\nఉంటే బాగుండేదని మంత్రి  అభిప్రాయపడ్డారు. గత ' +
+        'ప్రభుత్వం  ఎఫ్‌ఆర్‌ బీఎంను దాటి అప్పులు\nచేసిందన్నారు. అప్పులు ' +
+        'చేసినప్పటికీ దానిని తీర్చగలిగే, వనరులు సృష్టించే వాటిపై అప్పు ' +
+        'చేసి ఉంటే ఈ\nపరిస్థితి వచ్చేది కాదని తెలిపారు. విద్య, ఉద్యోగ ' +
+        'అవకాశాల పెంపుదలతో పాటు ఆరోగ్యం, సంక్షేమంపై\nదృష్టిసారిస్తూ రాష్ట్ర ' +
+        'ఆర్థిక పరిస్థితిని మెరుగుదలకై కృషి చేస్తామని ఈ సందర్భంగా మంత్రి ' +
+        'పేర్కొన్నారు.\nవిద్యారంగంపై పెట్టిన అప్పును పెట్టుబడిగా ' +
+        'భావించాలన్నారు.  అదే విధంగా తలసరి ఆదాయం\nవిషయంలో తెలంగాణ రాష్ట్రం ' +
+        'కంటే వెనుకబడి ఉండటం బాధపడాల్సిన విషయం అన్నారు. తెలంగాణ\nకు ' +
+        'వచ్చినట్లు ఏపీకి పన్ను ఆదాయం రాకపోవడం కూడా ఒక రకంగా ఇన్ని ' +
+        'సమస్యలకు కారణమని మంత్రి\nఅన్నారు.\n\n',
+      confidence: 95.48518371582031,
+      baseline: [Object],
+      bbox: [Object],
+      is_ltr: true,
+      page: [Object],
+      block: [Object]
+    },
+    {
+      lines: [Array],
+      text: 'రైతు విత్తనం వేయకముందే సాయం అందించే విధంగా ముఖ్యమంత్రి వైఎస్‌ ' +
+        'జగన్మోహన్‌ రెడ్డి\nకృషి చేశారని మంత్రి బుగ్గన అన్నారు. అదే విధంగా ' +
+        'అన్ని ప్రాంతాల్లో ఈ తరహా విధానం రావాలని\nసూచించారు. రైతులకు ' +
+        'ఇన్సూరెన్స్‌ కల్పించే గొప్ప కార్యక్రమానికి ముఖ్యమంత్రి వైఎస్‌ ' +
+        'జగన్మోహన్‌ రెడ్డి\nశ్రీకారం చుట్టడం అభినందనీయమన్నారు. త్వరలోనే రైతులు ' +
+        'కూడా ఈ తరహా విధానానికి అలవాటు\nపడతారన్నా . అదే విధంగా దేశంలోనే ' +
+        'మొట్టమొదటిసారిగా అమ్మఒడి పథకానికి శ్రీకారం చుట్టిన ఘనత\nవైఎస్‌ ' +
+        'జగన్మోహన్‌ రెడ్డిదే అని కొనియాడారు. ప్రాధాన్యతా క్రమంలో మేనిఫెస్టోలో ' +
+        'ఇచ్చిన హామీలన్నింటినీ\nనెరవేరుస్తామని ఈ సందర్భంగా మంత్రి బుగ్గన ' +
+        'రాజేంద్రనాథ్‌ రెడ్డి తెలిపారు.\n\n',
+      confidence: 91.88711547851562,
+      baseline: [Object],
+      bbox: [Object],
+      is_ltr: true,
+      page: [Object],
+      block: [Object]
+    },
+    {
+      lines: [Array],
+      text: 'రాష్ర్టానికి ప్రత్యేక హోదా ఇవ్వడంలేదని 14వ ఆర్థిక సంఘం ఎక్కడా ' +
+        'చెప్పలేదని, వాళ్లు\nచెప్పిందల్లా, తాము ప్రత్యేక హోదా రాష్తాలు, ' +
+        'ప్రత్యేక హోదా రహిత రాష్త్రాలు అని చూడడంలేదని, తమ\nపరిధిలో ' +
+        'కేటాయింపులు చేస్తూ నిర్ణయం తీసుకున్నట్టు మాత్రమే వెల్లడించారని ' +
+        'బుగ్గన వివరించారు.\nఒకవేళ ఏదైనా రాష్త్రానికి రెవెన్యూ లోటు ఉంటే ,ఆ ' +
+        'రాష్ట్రం ప్రత్యేక హోదా రాష్ట్రం కాకపోయినా సరే\nతాము నిధులు ఇస్తామని ' +
+        'ఆర్థిక సంఘం చెప్పిందని తెలిపారు. ఈ కారణంగానే ఏపీ, కేరళ, పశ్చిమ\n' +
+        'బెంగాల్‌ రాష్త్రాలకు ప్యాకేజి వచ్చిందని మంత్రి బుగ్గన ' +
+        'వెల్లడించారు.\nజారీచేసిన వారు: ప్రచార విభాగం, సమాచార పౌర సంబంధాల ' +
+        'శాఖ- వెలగపూడి సచివాలయం\nగమనిక : ఈ వార్తకు సంబంధించిన ఫోటోలతో పాటు ' +
+        'శ్వేతపత్రాన్ని జతచేస్తున్నాం.\n\n',
+      confidence: 91.65139770507812,
+      baseline: [Object],
+      bbox: [Object],
+      is_ltr: true,
+      page: [Object],
+      block: [Object]
+    },
+    {
+      lines: [Array],
+      text: 'PUBLICITY CELL, | & PR          Page 2 of 2\n',
+      confidence: 89.91590881347656,
+      baseline: [Object],
+      bbox: [Object],
+      is_ltr: true,
+      page: [Object],
+      block: [Object]
+    }
+  ],
+  lines: [
+    {
+      words: [Array],
+      text: 'ఏ రాష్ట్రమైనా అప్పులు చేయవచ్చు కానీ గత ' +
+        'ప్రభుత్వం ఆ అప్పులు విలువైన అవసరాలకు చేసి\n',
+      confidence: 96.08445739746094,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    },
+    {
+      words: [Array],
+      text: 'ఉంటే బాగుండేదని మంత్రి  అభిప్రాయపడ్డారు. ' +
+        'గత ప్రభుత్వం  ఎఫ్‌ఆర్‌ బీఎంను దాటి అప్పులు\n',
+      confidence: 94.35906982421875,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    },
+    {
+      words: [Array],
+      text: 'చేసిందన్నారు. అప్పులు చేసినప్పటికీ దానిని ' +
+        'తీర్చగలిగే, వనరులు సృష్టించే వాటిపై అప్పు చేసి ' +
+        'ఉంటే ఈ\n',
+      confidence: 96.53889465332031,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    },
+    {
+      words: [Array],
+      text: 'పరిస్థితి వచ్చేది కాదని తెలిపారు. విద్య, ' +
+        'ఉద్యోగ అవకాశాల పెంపుదలతో పాటు ఆరోగ్యం, ' +
+        'సంక్షేమంపై\n',
+      confidence: 95.81297302246094,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    },
+    {
+      words: [Array],
+      text: 'దృష్టిసారిస్తూ రాష్ట్ర ఆర్థిక పరిస్థితిని ' +
+        'మెరుగుదలకై కృషి చేస్తామని ఈ సందర్భంగా మంత్రి ' +
+        'పేర్కొన్నారు.\n',
+      confidence: 94.1474609375,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    },
+    {
+      words: [Array],
+      text: 'విద్యారంగంపై పెట్టిన అప్పును పెట్టుబడిగా ' +
+        'భావించాలన్నారు.  అదే విధంగా తలసరి ఆదాయం\n',
+      confidence: 94.44247436523438,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    },
+    {
+      words: [Array],
+      text: 'విషయంలో తెలంగాణ రాష్ట్రం కంటే వెనుకబడి ' +
+        'ఉండటం బాధపడాల్సిన విషయం అన్నారు. తెలంగాణ\n',
+      confidence: 95.85765838623047,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    },
+    {
+      words: [Array],
+      text: 'కు వచ్చినట్లు ఏపీకి పన్ను ఆదాయం రాకపోవడం ' +
+        'కూడా ఒక రకంగా ఇన్ని సమస్యలకు కారణమని మంత్రి\n',
+      confidence: 96.05320739746094,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    },
+    {
+      words: [Array],
+      text: 'అన్నారు.\n\n',
+      confidence: 96.29558563232422,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    },
+    {
+      words: [Array],
+      text: 'రైతు విత్తనం వేయకముందే సాయం అందించే ' +
+        'విధంగా ముఖ్యమంత్రి వైఎస్‌ జగన్మోహన్‌ ' +
+        'రెడ్డి\n',
+      confidence: 95.39556884765625,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    },
+    {
+      words: [Array],
+      text: 'కృషి చేశారని మంత్రి బుగ్గన అన్నారు. అదే ' +
+        'విధంగా అన్ని ప్రాంతాల్లో ఈ తరహా విధానం ' +
+        'రావాలని\n',
+      confidence: 96.05052947998047,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    },
+    {
+      words: [Array],
+      text: 'సూచించారు. రైతులకు ఇన్సూరెన్స్‌ కల్పించే గొప్ప ' +
+        'కార్యక్రమానికి ముఖ్యమంత్రి వైఎస్‌ జగన్మోహన్‌ ' +
+        'రెడ్డి\n',
+      confidence: 88.0085220336914,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    },
+    {
+      words: [Array],
+      text: 'శ్రీకారం చుట్టడం అభినందనీయమన్నారు. ' +
+        'త్వరలోనే రైతులు కూడా ఈ తరహా విధానానికి ' +
+        'అలవాటు\n',
+      confidence: 96.19849395751953,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    },
+    {
+      words: [Array],
+      text: 'పడతారన్నా . అదే విధంగా దేశంలోనే ' +
+        'మొట్టమొదటిసారిగా అమ్మఒడి పథకానికి శ్రీకారం ' +
+        'చుట్టిన ఘనత\n',
+      confidence: 86.79849243164062,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    },
+    {
+      words: [Array],
+      text: 'వైఎస్‌ జగన్మోహన్‌ రెడ్డిదే అని కొనియాడారు. ' +
+        'ప్రాధాన్యతా క్రమంలో మేనిఫెస్టోలో ఇచ్చిన ' +
+        'హామీలన్నింటినీ\n',
+      confidence: 84.9824447631836,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    },
+    {
+      words: [Array],
+      text: 'నెరవేరుస్తామని ఈ సందర్భంగా మంత్రి ' +
+        'బుగ్గన రాజేంద్రనాథ్‌ రెడ్డి తెలిపారు.\n' +
+        '\n',
+      confidence: 95.82267761230469,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    },
+    {
+      words: [Array],
+      text: 'రాష్ర్టానికి ప్రత్యేక హోదా ఇవ్వడంలేదని ' +
+        '14వ ఆర్థిక సంఘం ఎక్కడా చెప్పలేదని, వాళ్లు\n',
+      confidence: 89.11119079589844,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    },
+    {
+      words: [Array],
+      text: 'చెప్పిందల్లా, తాము ప్రత్యేక హోదా రాష్తాలు, ' +
+        'ప్రత్యేక హోదా రహిత రాష్త్రాలు అని చూడడంలేదని, ' +
+        'తమ\n',
+      confidence: 88.1128921508789,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    },
+    {
+      words: [Array],
+      text: 'పరిధిలో కేటాయింపులు చేస్తూ నిర్ణయం ' +
+        'తీసుకున్నట్టు మాత్రమే వెల్లడించారని బుగ్గన ' +
+        'వివరించారు.\n',
+      confidence: 95.82102966308594,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    },
+    {
+      words: [Array],
+      text: 'ఒకవేళ ఏదైనా రాష్త్రానికి రెవెన్యూ లోటు ఉంటే ,ఆ ' +
+        'రాష్ట్రం ప్రత్యేక హోదా రాష్ట్రం కాకపోయినా సరే\n',
+      confidence: 88.75341796875,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    },
+    {
+      words: [Array],
+      text: 'తాము నిధులు ఇస్తామని ఆర్థిక సంఘం ' +
+        'చెప్పిందని తెలిపారు. ఈ కారణంగానే ఏపీ, ' +
+        'కేరళ, పశ్చిమ\n',
+      confidence: 95.60466766357422,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    },
+    {
+      words: [Array],
+      text: 'బెంగాల్‌ రాష్త్రాలకు ప్యాకేజి వచ్చిందని మంత్రి బుగ్గన వెల్లడించారు.\n',
+      confidence: 88.08856964111328,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    },
+    {
+      words: [Array],
+      text: 'జారీచేసిన వారు: ప్రచార విభాగం, సమాచార ' +
+        'పౌర సంబంధాల శాఖ- వెలగపూడి సచివాలయం\n',
+      confidence: 94.60169219970703,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    },
+    {
+      words: [Array],
+      text: 'గమనిక : ఈ వార్తకు సంబంధించిన ఫోటోలతో ' +
+        'పాటు శ్వేతపత్రాన్ని జతచేస్తున్నాం.\n\n',
+      confidence: 93.43017578125,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    },
+    {
+      words: [Array],
+      text: 'PUBLICITY CELL, | & PR          Page 2 of 2\n',
+      confidence: 89.91590881347656,
+      baseline: [Object],
+      bbox: [Object],
+      page: [Object],
+      block: [Object],
+      paragraph: [Object]
+    }
+  ],
+  words: [
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'ఏ',
+      confidence: 96.66709899902344,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'రాష్ట్రమైనా',
+      confidence: 96.06302642822266,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'అప్పులు',
+      confidence: 96.14198303222656,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'చేయవచ్చు',
+      confidence: 94.04823303222656,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'కానీ',
+      confidence: 96.28475952148438,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'గత',
+      confidence: 96.2870864868164,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'ప్రభుత్వం',
+      confidence: 96.25788879394531,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'ఆ',
+      confidence: 96.00494384765625,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'అప్పులు',
+      confidence: 96.6764144897461,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'విలువైన',
+      confidence: 96.41624450683594,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'అవసరాలకు',
+      confidence: 96.08290100097656,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'చేసి',
+      confidence: 96.08290100097656,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'ఉంటే',
+      confidence: 96.6091079711914,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 7,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'బాగుండేదని',
+      confidence: 96.09927368164062,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 7,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'మంత్రి',
+      confidence: 96.02922821044922,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 7,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'అభిప్రాయపడ్డారు.',
+      confidence: 95.38523864746094,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 7,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'గత',
+      confidence: 95.38523864746094,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 7,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'ప్రభుత్వం',
+      confidence: 95.84968566894531,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 7,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'ఎఫ్‌ఆర్‌',
+      confidence: 88.2183609008789,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: false,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 7,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'బీఎంను',
+      confidence: 88.2183609008789,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: false,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 7,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'దాటి',
+      confidence: 95.86373901367188,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 7,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'అప్పులు',
+      confidence: 95.93243408203125,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 7,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'చేసిందన్నారు.',
+      confidence: 96.21612548828125,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'అప్పులు',
+      confidence: 95.96234893798828,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'చేసినప్పటికీ',
+      confidence: 96.77084350585938,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'దానిని',
+      confidence: 96.98500061035156,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'తీర్చగలిగే,',
+      confidence: 96.16898345947266,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'వనరులు',
+      confidence: 96.8397445678711,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'సృష్టించే',
+      confidence: 96.50029754638672,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'వాటిపై',
+      confidence: 96.48384094238281,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'అప్పు',
+      confidence: 96.53771209716797,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'చేసి',
+      confidence: 96.59371185302734,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'ఉంటే',
+      confidence: 96.52651977539062,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'ఈ',
+      confidence: 96.88163757324219,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'పరిస్థితి',
+      confidence: 96.72431945800781,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'వచ్చేది',
+      confidence: 96.65545654296875,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'కాదని',
+      confidence: 96.92386627197266,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'తెలిపారు.',
+      confidence: 96.36164093017578,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'విద్య,',
+      confidence: 96.59173583984375,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'ఉద్యోగ',
+      confidence: 96.44989776611328,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'అవకాశాల',
+      confidence: 93.2969970703125,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'పెంపుదలతో',
+      confidence: 91.65979766845703,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: false,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'పాటు',
+      confidence: 96.48362731933594,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'ఆరోగ్యం,',
+      confidence: 96.19608306884766,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'సంక్షేమంపై',
+      confidence: 96.59927368164062,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'దృష్టిసారిస్తూ',
+      confidence: 92.2880630493164,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: false,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'రాష్ట్ర',
+      confidence: 95.88446807861328,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'ఆర్థిక',
+      confidence: 85.85037994384766,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'పరిస్థితిని',
+      confidence: 93.30563354492188,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'మెరుగుదలకై',
+      confidence: 91.25364685058594,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: false,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'కృషి',
+      confidence: 95.5428466796875,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'చేస్తామని',
+      confidence: 95.95648193359375,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'ఈ',
+      confidence: 96.47689056396484,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'సందర్భంగా',
+      confidence: 96.0969009399414,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'మంత్రి',
+      confidence: 96.1096420288086,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'పేర్కొన్నారు.',
+      confidence: 96.85712432861328,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'విద్యారంగంపై',
+      confidence: 91.43081665039062,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: false,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'పెట్టిన',
+      confidence: 95.97517395019531,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'అప్పును',
+      confidence: 96.12262725830078,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'పెట్టుబడిగా',
+      confidence: 93.28242492675781,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'భావించాలన్నారు.',
+      confidence: 91.02224731445312,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: false,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'అదే',
+      confidence: 96.55567169189453,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'విధంగా',
+      confidence: 95.0137939453125,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'తలసరి',
+      confidence: 95.0137939453125,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'ఆదాయం',
+      confidence: 95.56568908691406,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'విషయంలో',
+      confidence: 96.09355926513672,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'తెలంగాణ',
+      confidence: 95.46395111083984,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'రాష్ట్రం',
+      confidence: 95.55464172363281,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'కంటే',
+      confidence: 96.40328979492188,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'వెనుకబడి',
+      confidence: 95.89710998535156,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'ఉండటం',
+      confidence: 94.26629638671875,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'బాధపడాల్సిన',
+      confidence: 96.64396667480469,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'విషయం',
+      confidence: 95.75460052490234,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'అన్నారు.',
+      confidence: 96.18270111083984,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'తెలంగాణ',
+      confidence: 96.31647491455078,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'కు',
+      confidence: 96.386962890625,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'వచ్చినట్లు',
+      confidence: 95.48698425292969,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'ఏపీకి',
+      confidence: 95.66182708740234,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'పన్ను',
+      confidence: 95.67943572998047,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'ఆదాయం',
+      confidence: 95.32627868652344,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'రాకపోవడం',
+      confidence: 96.53145599365234,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'కూడా',
+      confidence: 96.38975524902344,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'ఒక',
+      confidence: 96.605224609375,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'రకంగా',
+      confidence: 95.9654541015625,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'ఇన్ని',
+      confidence: 96.44847869873047,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'సమస్యలకు',
+      confidence: 96.2824935913086,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'కారణమని',
+      confidence: 96.4022216796875,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'మంత్రి',
+      confidence: 95.52509307861328,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 8,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'అన్నారు.',
+      confidence: 96.29558563232422,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 10,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'రైతు',
+      confidence: 96.72478485107422,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'విత్తనం',
+      confidence: 93.30137634277344,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'వేయకముందే',
+      confidence: 90.41889953613281,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: false,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'సాయం',
+      confidence: 96.89582061767578,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'అందించే',
+      confidence: 96.00139617919922,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'విధంగా',
+      confidence: 96.39319610595703,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'ముఖ్యమంత్రి',
+      confidence: 96.71771240234375,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'వైఎస్‌',
+      confidence: 96.32600402832031,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'జగన్మోహన్‌',
+      confidence: 94.39539337158203,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'రెడ్డి',
+      confidence: 96.78114318847656,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    {
+      symbols: [Array],
+      choices: [Array],
+      text: 'కృషి',
+      confidence: 96.07610321044922,
+      baseline: [Object],
+      bbox: [Object],
+      is_numeric: false,
+      in_dictionary: true,
+      direction: 'LEFT_TO_RIGHT',
+      language: 'tel',
+      is_bold: false,
+      is_italic: false,
+      is_underlined: false,
+      is_monospace: false,
+      is_serif: false,
+      is_smallcaps: false,
+      font_size: 9,
+      font_id: -1,
+      font_name: '',
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object]
+    },
+    ... 152 more items
+  ],
+  symbols: [
+    {
+      choices: [Array],
+      image: null,
+      text: 'ఏ',
+      confidence: 99.52387237548828,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ర',
+      confidence: 99.55848693847656,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ా',
+      confidence: 99.5748062133789,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ష',
+      confidence: 99.55684661865234,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: '్ట',
+      confidence: 99.50422668457031,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: '్ర',
+      confidence: 99.43757629394531,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'మ',
+      confidence: 99.55345153808594,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ై',
+      confidence: 99.5618667602539,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'న',
+      confidence: 99.57406616210938,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ా',
+      confidence: 99.55658721923828,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'అ',
+      confidence: 99.5503921508789,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ప',
+      confidence: 99.4488525390625,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: '్ప',
+      confidence: 99.57157897949219,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ు',
+      confidence: 99.48603057861328,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ల',
+      confidence: 99.5135498046875,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ు',
+      confidence: 99.50827026367188,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'చ',
+      confidence: 99.40628814697266,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ే',
+      confidence: 99.56765747070312,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'య',
+      confidence: 99.5255355834961,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'వ',
+      confidence: 99.5398178100586,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'చ',
+      confidence: 99.5748291015625,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: '్చ',
+      confidence: 99.14974975585938,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ు',
+      confidence: 99.4524917602539,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'క',
+      confidence: 99.57445526123047,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ా',
+      confidence: 99.57080841064453,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'న',
+      confidence: 99.46925354003906,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ీ',
+      confidence: 99.54098510742188,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'గ',
+      confidence: 99.56676483154297,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'త',
+      confidence: 99.56949615478516,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ప',
+      confidence: 99.56478881835938,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: '్ర',
+      confidence: 99.49773406982422,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'భ',
+      confidence: 99.56568908691406,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ు',
+      confidence: 99.5267562866211,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'త',
+      confidence: 99.46541595458984,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: '్వ',
+      confidence: 99.57036590576172,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ం',
+      confidence: 99.5538330078125,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ఆ',
+      confidence: 99.42927551269531,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'అ',
+      confidence: 99.52519989013672,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ప',
+      confidence: 99.55157470703125,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: '్ప',
+      confidence: 99.5285415649414,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ు',
+      confidence: 99.54865264892578,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ల',
+      confidence: 99.57460021972656,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ు',
+      confidence: 99.56057739257812,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'వ',
+      confidence: 99.57457733154297,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ి',
+      confidence: 99.50349426269531,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ల',
+      confidence: 99.57450866699219,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ు',
+      confidence: 99.57029724121094,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'వ',
+      confidence: 99.488037109375,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ై',
+      confidence: 99.57279205322266,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'న',
+      confidence: 99.5457534790039,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'అ',
+      confidence: 99.5710220336914,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'వ',
+      confidence: 99.55941772460938,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'స',
+      confidence: 99.5712661743164,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ర',
+      confidence: 99.56741333007812,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ా',
+      confidence: 99.55865478515625,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ల',
+      confidence: 99.50811004638672,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'క',
+      confidence: 99.5555648803711,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ు',
+      confidence: 99.55885314941406,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'చ',
+      confidence: 99.48175048828125,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ే',
+      confidence: 99.57270812988281,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'స',
+      confidence: 99.5662841796875,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ి',
+      confidence: 99.55750274658203,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ఉ',
+      confidence: 99.51558685302734,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ం',
+      confidence: 99.57183837890625,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ట',
+      confidence: 99.54415893554688,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ే',
+      confidence: 99.5633316040039,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'బ',
+      confidence: 99.547119140625,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ా',
+      confidence: 99.57365417480469,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'గ',
+      confidence: 99.5482177734375,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ు',
+      confidence: 99.55838012695312,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ం',
+      confidence: 99.5580825805664,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'డ',
+      confidence: 99.55728912353516,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ే',
+      confidence: 99.55533599853516,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ద',
+      confidence: 99.56074523925781,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'న',
+      confidence: 99.54293060302734,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ి',
+      confidence: 99.44275665283203,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'మ',
+      confidence: 99.43274688720703,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ం',
+      confidence: 99.46939849853516,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'త',
+      confidence: 99.49018096923828,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: '్ర',
+      confidence: 99.5669937133789,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ి',
+      confidence: 99.49200439453125,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'అ',
+      confidence: 99.56236267089844,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'భ',
+      confidence: 99.57205963134766,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ి',
+      confidence: 99.5654296875,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ప',
+      confidence: 99.56537628173828,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: '్ర',
+      confidence: 99.506103515625,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ా',
+      confidence: 99.49417877197266,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'య',
+      confidence: 99.46395874023438,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ప',
+      confidence: 99.57418060302734,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'డ',
+      confidence: 99.54383087158203,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: '్డ',
+      confidence: 99.52324676513672,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ా',
+      confidence: 99.50418853759766,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ర',
+      confidence: 99.56039428710938,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ు',
+      confidence: 99.55840301513672,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: '.',
+      confidence: 99.53257751464844,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'గ',
+      confidence: 99.50892639160156,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'త',
+      confidence: 99.47608947753906,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'ప',
+      confidence: 99.51536560058594,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: '్ర',
+      confidence: 99.5396728515625,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    {
+      choices: [Array],
+      image: null,
+      text: 'భ',
+      confidence: 99.55982971191406,
+      baseline: [Object],
+      bbox: [Object],
+      is_superscript: false,
+      is_subscript: false,
+      is_dropcap: false,
+      page: [Object],
+      block: [Object],
+      paragraph: [Object],
+      line: [Object],
+      word: [Object]
+    },
+    ... 1486 more items
+  ]
+}
