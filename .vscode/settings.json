@@ -1,7 +1,15 @@
 {
     "cSpell.words": [
+        "LSTM",
+        "OCR'ed",
+        "interword",
+        "ocrtext",
+        "pageseg",
         "pjpeg",
+        "tessedit",
         "tesseract",
-        "tesseractjs"
+        "tesseractjs",
+        "tessjs",
+        "traineddata"
     ]
 }
