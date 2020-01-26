@@ -14,7 +14,7 @@ const recognize = async () => {
     await worker1.load();
     await worker1.loadLanguage("eng+hin+tel+urd");
     await worker1.initialize("eng+hin+tel+urd");
-    await worker1.setParameters({tessedit_ocr_engine_mode: "OEM_TESSERACT_LSTM_COMBINED",  preserve_interword_spaces: "1", tessedit_pageseg_mode: "PSM_OSD_ONLY", tessjs_create_osd: "1"}); //tessedit_pageseg_mode: "PSM_OSD_ONLY", tessjs_create_osd: "1"
+    await worker1.setParameters({tessedit_ocr_engine_mode: "OEM_TESSERACT_LSTM_COMBINED",  preserve_interword_spaces: "1", tessedit_pageseg_mode: "PSM_AUTO_ONLY", tessjs_create_osd: "1"}); //tessedit_pageseg_mode: "PSM_OSD_ONLY", tessjs_create_osd: "1"
     // const {data} = await worker1.recognize(path.join(__dirname, "FInance-White Paper-telugu.pdf"));
     // try{
     // await fs.appendFile(path.join(__dirname,'ocrtext.txt', data));
