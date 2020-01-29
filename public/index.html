@@ -30,17 +30,7 @@
             <div id="content">
                 <nav class="navbar navbar-light navbar-expand bg-white shadow mb-4 topbar static-top">
                     <div class="container-fluid">
-                        <form enctype="multipart/form-data" method="POST" action="/fileUpload">
-                            <div class="input-group">
-                                <div class="custom-file">
-                                    <input type="file" class="custom-file-input" id="fileUpload" name="fileUpload" multiple accept="application/pdf, image/png, image/jpeg, image/pjpeg, image/bmp, image/x-windows-bmp" value="Select the file/s">
-                                    <label class="custom-file-label" for="fileUpload">Choose file</label>
-                                </div>
-                                <div class="input-group-append">
-                                    <button class="btn btn-primary" type="submit" value="Submit">Upload file/s</button>
-                                </div>
-                            </div>
-                        </form>
+                        <div class="input-group"></div>
                         <ul class="nav navbar-nav flex-nowrap">
                             <div class="d-none d-sm-block topbar-divider"></div>
                             <li class="nav-item dropdown no-arrow" role="presentation">
@@ -68,17 +58,17 @@
                         <div class="col-lg-6 mb-4">
                             <div class="card shadow mb-4">
                                 <div class="card-header py-3">
-                                    <h6 class="text-primary font-weight-bold m-0 bg-light form-control border-0 small">Projects</h6>
+                                    <h6 class="text-primary font-weight-bold m-0 bg-light form-control border-0 small">Preview</h6>
                                 </div>
                                 <div class="card-body">
-                                    <iframe class="viewer" src="https://source.unsplash.com/random"></iframe>
+                                    <iframe class="viewer" src="assets/img/sample/telgu.jpg"></iframe>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-6 mb-4">
                             <div class="card shadow mb-4">
                                 <div class="card-header py-3">
-                                    <h6 class="text-primary font-weight-bold m-0">Projects
+                                    <h6 class="text-primary font-weight-bold m-0">Output
                                         <form class="form-inline d-none d-sm-inline-block mr-auto ml-md-3 my-2 my-md-0 mw-100 navbar-search">
                                             <div class="input-group"><input class="bg-light form-control border-0 small" type="text" placeholder="Search for ...">
                                                 <div class="input-group-append"><button class="btn btn-primary py-0" type="button"><i class="fas fa-search"></i></button></div>
